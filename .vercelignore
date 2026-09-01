@@ -1,0 +1,19 @@
+# Frontend (Vercel builds static dist directly, does not need to be in Python lambda bundle)
+frontend/
+node_modules/
+
+# Raw datasets & archives
+10k_synthea_covid19_csv/
+synthea_sample_data_csv_nov2021/
+synthea_sample_data_csv_latest/
+*.zip
+*.tar.gz
+*.7z
+
+# Backend tests
+backend/tests/
+
+# Git & IDE
+.git/
+.vscode/
+.idea/
