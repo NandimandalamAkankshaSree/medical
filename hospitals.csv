@@ -1,0 +1,501 @@
+hospital_id,hospital_name,address,city,state,department,phone,website
+HOSP00001,Apollo Hospitals,"122, Ring Road",Chennai,Tamil Nadu,General Medicine,+91-8158288730,https://www.apollo-hospitals.example
+HOSP00002,Fortis Healthcare,"975, Airport Road",Coimbatore,Tamil Nadu,Cardiology,+91-8779694999,https://www.fortis-healthcare.example
+HOSP00003,MIOT International,"881, Medical College Road",Madurai,Tamil Nadu,Neurology,+91-9797265611,https://www.miot-international.example
+HOSP00004,Sri Ramachandra Medical Centre,"229, Lake View Road",Trichy,Tamil Nadu,Orthopedics,+91-8669253892,https://www.sri-ramachandra-medical-centre.example
+HOSP00005,Kauvery Hospital,"570, Park Street",Salem,Tamil Nadu,Pediatrics,+91-9364563061,https://www.kauvery-hospital.example
+HOSP00006,Global Hospitals,"587, Airport Road",Tirunelveli,Tamil Nadu,Gynecology,+91-9618087884,https://www.global-hospitals.example
+HOSP00007,SIMS Hospital,"749, Station Road",Hyderabad,Telangana,Dermatology,+91-9225631933,https://www.sims-hospital.example
+HOSP00008,MGM Healthcare,"792, Lake View Road",Bengaluru,Karnataka,Ophthalmology,+91-7894488586,https://www.mgm-healthcare.example
+HOSP00009,Billroth Hospitals,"246, Main Road",Kochi,Kerala,ENT,+91-8637987308,https://www.billroth-hospitals.example
+HOSP00010,Vijaya Hospital,"83, Medical College Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-7233687312,https://www.vijaya-hospital.example
+HOSP00011,Sankara Nethralaya,"837, Medical College Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-7931252818,https://www.sankara-nethralaya.example
+HOSP00012,Kanchi Kamakoti CHILDS Trust Hospital,"12, Station Road",Pune,Maharashtra,Endocrinology,+91-8917953297,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00013,Government General Hospital,"322, MG Road",Mumbai,Maharashtra,Pulmonology,+91-7706035757,https://www.government-general-hospital.example
+HOSP00014,Rajiv Gandhi Government General Hospital,"258, Ring Road",Delhi,Delhi,Oncology,+91-9991387404,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00015,Dr. Mehta's Hospitals,"366, Park Street",Kolkata,West Bengal,Urology,+91-9203916392,https://www.dr-mehtas-hospitals.example
+HOSP00016,Cloudnine Hospital,"526, Medical College Road",Bhubaneswar,Odisha,Radiology,+91-9105742297,https://www.cloudnine-hospital.example
+HOSP00017,Prashanth Hospitals,"349, Medical College Road",Ahmedabad,Gujarat,Pathology,+91-8394231823,https://www.prashanth-hospitals.example
+HOSP00018,Hindu Mission Hospital,"551, Anna Salai",Jaipur,Rajasthan,Emergency Medicine,+91-7235240924,https://www.hindu-mission-hospital.example
+HOSP00019,Vijaya Health Centre,"469, Hospital Road",Lucknow,Uttar Pradesh,Psychiatry,+91-9764430628,https://www.vijaya-health-centre.example
+HOSP00020,Be Well Hospitals,"661, Lake View Road",Kochi,Kerala,General Surgery,+91-7327139357,https://www.be-well-hospitals.example
+HOSP00021,Apollo Hospitals - Chennai 2,"26, Ring Road",Chennai,Tamil Nadu,General Medicine,+91-7561402013,https://www.apollo-hospitals.example
+HOSP00022,Fortis Healthcare - Coimbatore 2,"473, Park Street",Coimbatore,Tamil Nadu,Cardiology,+91-6389485682,https://www.fortis-healthcare.example
+HOSP00023,MIOT International - Madurai 2,"409, Lake View Road",Madurai,Tamil Nadu,Neurology,+91-8381340453,https://www.miot-international.example
+HOSP00024,Sri Ramachandra Medical Centre - Trichy 2,"511, Medical College Road",Trichy,Tamil Nadu,Orthopedics,+91-7827265126,https://www.sri-ramachandra-medical-centre.example
+HOSP00025,Kauvery Hospital - Salem 2,"519, Lake View Road",Salem,Tamil Nadu,Pediatrics,+91-9759958078,https://www.kauvery-hospital.example
+HOSP00026,Global Hospitals - Tirunelveli 2,"503, Park Street",Tirunelveli,Tamil Nadu,Gynecology,+91-9937431195,https://www.global-hospitals.example
+HOSP00027,SIMS Hospital - Hyderabad 2,"538, Anna Salai",Hyderabad,Telangana,Dermatology,+91-9627004145,https://www.sims-hospital.example
+HOSP00028,MGM Healthcare - Bengaluru 2,"431, Lake View Road",Bengaluru,Karnataka,Ophthalmology,+91-9978140950,https://www.mgm-healthcare.example
+HOSP00029,Billroth Hospitals - Kochi 2,"491, Airport Road",Kochi,Kerala,ENT,+91-8224738229,https://www.billroth-hospitals.example
+HOSP00030,Vijaya Hospital - Vijayawada 2,"825, Main Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8471823424,https://www.vijaya-hospital.example
+HOSP00031,Sankara Nethralaya - Visakhapatnam 2,"230, Hospital Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-9513851069,https://www.sankara-nethralaya.example
+HOSP00032,Kanchi Kamakoti CHILDS Trust Hospital - Pune 2,"51, Airport Road",Pune,Maharashtra,Endocrinology,+91-9808882884,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00033,Government General Hospital - Mumbai 2,"687, Medical College Road",Mumbai,Maharashtra,Pulmonology,+91-9080812367,https://www.government-general-hospital.example
+HOSP00034,Rajiv Gandhi Government General Hospital - Delhi 2,"638, Park Street",Delhi,Delhi,Oncology,+91-8018807828,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00035,Dr. Mehta's Hospitals - Kolkata 2,"146, Station Road",Kolkata,West Bengal,Urology,+91-9798065994,https://www.dr-mehtas-hospitals.example
+HOSP00036,Cloudnine Hospital - Bhubaneswar 2,"235, Medical College Road",Bhubaneswar,Odisha,Radiology,+91-8691529321,https://www.cloudnine-hospital.example
+HOSP00037,Prashanth Hospitals - Ahmedabad 2,"718, Station Road",Ahmedabad,Gujarat,Pathology,+91-8896110047,https://www.prashanth-hospitals.example
+HOSP00038,Hindu Mission Hospital - Jaipur 2,"481, Airport Road",Jaipur,Rajasthan,Emergency Medicine,+91-7078064622,https://www.hindu-mission-hospital.example
+HOSP00039,Vijaya Health Centre - Lucknow 2,"574, Park Street",Lucknow,Uttar Pradesh,Psychiatry,+91-8876571223,https://www.vijaya-health-centre.example
+HOSP00040,Be Well Hospitals - Kochi 2,"316, Airport Road",Kochi,Kerala,General Surgery,+91-9435123436,https://www.be-well-hospitals.example
+HOSP00041,Apollo Hospitals - Chennai 3,"663, Airport Road",Chennai,Tamil Nadu,General Medicine,+91-8999276835,https://www.apollo-hospitals.example
+HOSP00042,Fortis Healthcare - Coimbatore 3,"491, Park Street",Coimbatore,Tamil Nadu,Cardiology,+91-7860007896,https://www.fortis-healthcare.example
+HOSP00043,MIOT International - Madurai 3,"208, Anna Salai",Madurai,Tamil Nadu,Neurology,+91-9572734190,https://www.miot-international.example
+HOSP00044,Sri Ramachandra Medical Centre - Trichy 3,"276, Main Road",Trichy,Tamil Nadu,Orthopedics,+91-6142203221,https://www.sri-ramachandra-medical-centre.example
+HOSP00045,Kauvery Hospital - Salem 3,"154, Lake View Road",Salem,Tamil Nadu,Pediatrics,+91-7968071924,https://www.kauvery-hospital.example
+HOSP00046,Global Hospitals - Tirunelveli 3,"823, Airport Road",Tirunelveli,Tamil Nadu,Gynecology,+91-9981253048,https://www.global-hospitals.example
+HOSP00047,SIMS Hospital - Hyderabad 3,"502, Ring Road",Hyderabad,Telangana,Dermatology,+91-9957854121,https://www.sims-hospital.example
+HOSP00048,MGM Healthcare - Bengaluru 3,"205, Anna Salai",Bengaluru,Karnataka,Ophthalmology,+91-8974900223,https://www.mgm-healthcare.example
+HOSP00049,Billroth Hospitals - Kochi 3,"498, Station Road",Kochi,Kerala,ENT,+91-8195874083,https://www.billroth-hospitals.example
+HOSP00050,Vijaya Hospital - Vijayawada 3,"786, Station Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-9470158660,https://www.vijaya-hospital.example
+HOSP00051,Sankara Nethralaya - Visakhapatnam 3,"445, Airport Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8851418236,https://www.sankara-nethralaya.example
+HOSP00052,Kanchi Kamakoti CHILDS Trust Hospital - Pune 3,"930, Main Road",Pune,Maharashtra,Endocrinology,+91-9570848376,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00053,Government General Hospital - Mumbai 3,"298, Ring Road",Mumbai,Maharashtra,Pulmonology,+91-7965615737,https://www.government-general-hospital.example
+HOSP00054,Rajiv Gandhi Government General Hospital - Delhi 3,"939, Medical College Road",Delhi,Delhi,Oncology,+91-7883132879,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00055,Dr. Mehta's Hospitals - Kolkata 3,"706, Airport Road",Kolkata,West Bengal,Urology,+91-7111671333,https://www.dr-mehtas-hospitals.example
+HOSP00056,Cloudnine Hospital - Bhubaneswar 3,"464, Hospital Road",Bhubaneswar,Odisha,Radiology,+91-7828696304,https://www.cloudnine-hospital.example
+HOSP00057,Prashanth Hospitals - Ahmedabad 3,"863, Station Road",Ahmedabad,Gujarat,Pathology,+91-6276145584,https://www.prashanth-hospitals.example
+HOSP00058,Hindu Mission Hospital - Jaipur 3,"665, Anna Salai",Jaipur,Rajasthan,Emergency Medicine,+91-9879487978,https://www.hindu-mission-hospital.example
+HOSP00059,Vijaya Health Centre - Lucknow 3,"511, Ring Road",Lucknow,Uttar Pradesh,Psychiatry,+91-6415162484,https://www.vijaya-health-centre.example
+HOSP00060,Be Well Hospitals - Kochi 3,"200, Park Street",Kochi,Kerala,General Surgery,+91-6628605732,https://www.be-well-hospitals.example
+HOSP00061,Apollo Hospitals - Chennai 4,"461, Main Road",Chennai,Tamil Nadu,General Medicine,+91-6395861254,https://www.apollo-hospitals.example
+HOSP00062,Fortis Healthcare - Coimbatore 4,"1, Station Road",Coimbatore,Tamil Nadu,Cardiology,+91-8493829788,https://www.fortis-healthcare.example
+HOSP00063,MIOT International - Madurai 4,"560, Medical College Road",Madurai,Tamil Nadu,Neurology,+91-8620504368,https://www.miot-international.example
+HOSP00064,Sri Ramachandra Medical Centre - Trichy 4,"813, MG Road",Trichy,Tamil Nadu,Orthopedics,+91-7064454438,https://www.sri-ramachandra-medical-centre.example
+HOSP00065,Kauvery Hospital - Salem 4,"124, Lake View Road",Salem,Tamil Nadu,Pediatrics,+91-6191809267,https://www.kauvery-hospital.example
+HOSP00066,Global Hospitals - Tirunelveli 4,"770, Airport Road",Tirunelveli,Tamil Nadu,Gynecology,+91-7153355214,https://www.global-hospitals.example
+HOSP00067,SIMS Hospital - Hyderabad 4,"685, Ring Road",Hyderabad,Telangana,Dermatology,+91-6664693043,https://www.sims-hospital.example
+HOSP00068,MGM Healthcare - Bengaluru 4,"6, Ring Road",Bengaluru,Karnataka,Ophthalmology,+91-8854355064,https://www.mgm-healthcare.example
+HOSP00069,Billroth Hospitals - Kochi 4,"598, Lake View Road",Kochi,Kerala,ENT,+91-9305096782,https://www.billroth-hospitals.example
+HOSP00070,Vijaya Hospital - Vijayawada 4,"949, Station Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8962482100,https://www.vijaya-hospital.example
+HOSP00071,Sankara Nethralaya - Visakhapatnam 4,"738, Hospital Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8344208658,https://www.sankara-nethralaya.example
+HOSP00072,Kanchi Kamakoti CHILDS Trust Hospital - Pune 4,"229, Station Road",Pune,Maharashtra,Endocrinology,+91-8525159540,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00073,Government General Hospital - Mumbai 4,"135, Lake View Road",Mumbai,Maharashtra,Pulmonology,+91-9762364696,https://www.government-general-hospital.example
+HOSP00074,Rajiv Gandhi Government General Hospital - Delhi 4,"710, Airport Road",Delhi,Delhi,Oncology,+91-7248461747,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00075,Dr. Mehta's Hospitals - Kolkata 4,"87, Park Street",Kolkata,West Bengal,Urology,+91-8871421313,https://www.dr-mehtas-hospitals.example
+HOSP00076,Cloudnine Hospital - Bhubaneswar 4,"164, Hospital Road",Bhubaneswar,Odisha,Radiology,+91-9364840406,https://www.cloudnine-hospital.example
+HOSP00077,Prashanth Hospitals - Ahmedabad 4,"802, Lake View Road",Ahmedabad,Gujarat,Pathology,+91-7314278591,https://www.prashanth-hospitals.example
+HOSP00078,Hindu Mission Hospital - Jaipur 4,"520, Park Street",Jaipur,Rajasthan,Emergency Medicine,+91-7676786620,https://www.hindu-mission-hospital.example
+HOSP00079,Vijaya Health Centre - Lucknow 4,"828, Hospital Road",Lucknow,Uttar Pradesh,Psychiatry,+91-8233515788,https://www.vijaya-health-centre.example
+HOSP00080,Be Well Hospitals - Kochi 4,"827, MG Road",Kochi,Kerala,General Surgery,+91-7614934286,https://www.be-well-hospitals.example
+HOSP00081,Apollo Hospitals - Chennai 5,"15, Medical College Road",Chennai,Tamil Nadu,General Medicine,+91-7672236820,https://www.apollo-hospitals.example
+HOSP00082,Fortis Healthcare - Coimbatore 5,"910, Medical College Road",Coimbatore,Tamil Nadu,Cardiology,+91-6220655520,https://www.fortis-healthcare.example
+HOSP00083,MIOT International - Madurai 5,"854, Ring Road",Madurai,Tamil Nadu,Neurology,+91-8775719018,https://www.miot-international.example
+HOSP00084,Sri Ramachandra Medical Centre - Trichy 5,"362, Main Road",Trichy,Tamil Nadu,Orthopedics,+91-6109875088,https://www.sri-ramachandra-medical-centre.example
+HOSP00085,Kauvery Hospital - Salem 5,"523, Station Road",Salem,Tamil Nadu,Pediatrics,+91-7407718710,https://www.kauvery-hospital.example
+HOSP00086,Global Hospitals - Tirunelveli 5,"700, Anna Salai",Tirunelveli,Tamil Nadu,Gynecology,+91-7933338230,https://www.global-hospitals.example
+HOSP00087,SIMS Hospital - Hyderabad 5,"334, Medical College Road",Hyderabad,Telangana,Dermatology,+91-8137045498,https://www.sims-hospital.example
+HOSP00088,MGM Healthcare - Bengaluru 5,"972, Station Road",Bengaluru,Karnataka,Ophthalmology,+91-8455081544,https://www.mgm-healthcare.example
+HOSP00089,Billroth Hospitals - Kochi 5,"634, Hospital Road",Kochi,Kerala,ENT,+91-6660955025,https://www.billroth-hospitals.example
+HOSP00090,Vijaya Hospital - Vijayawada 5,"606, Airport Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-6888996598,https://www.vijaya-hospital.example
+HOSP00091,Sankara Nethralaya - Visakhapatnam 5,"445, Lake View Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-7444908030,https://www.sankara-nethralaya.example
+HOSP00092,Kanchi Kamakoti CHILDS Trust Hospital - Pune 5,"470, Lake View Road",Pune,Maharashtra,Endocrinology,+91-7002129707,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00093,Government General Hospital - Mumbai 5,"695, Medical College Road",Mumbai,Maharashtra,Pulmonology,+91-8350867335,https://www.government-general-hospital.example
+HOSP00094,Rajiv Gandhi Government General Hospital - Delhi 5,"409, Main Road",Delhi,Delhi,Oncology,+91-6839640056,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00095,Dr. Mehta's Hospitals - Kolkata 5,"663, Hospital Road",Kolkata,West Bengal,Urology,+91-6194289684,https://www.dr-mehtas-hospitals.example
+HOSP00096,Cloudnine Hospital - Bhubaneswar 5,"664, Airport Road",Bhubaneswar,Odisha,Radiology,+91-9998428931,https://www.cloudnine-hospital.example
+HOSP00097,Prashanth Hospitals - Ahmedabad 5,"860, Main Road",Ahmedabad,Gujarat,Pathology,+91-7940555806,https://www.prashanth-hospitals.example
+HOSP00098,Hindu Mission Hospital - Jaipur 5,"889, MG Road",Jaipur,Rajasthan,Emergency Medicine,+91-8078080341,https://www.hindu-mission-hospital.example
+HOSP00099,Vijaya Health Centre - Lucknow 5,"729, Main Road",Lucknow,Uttar Pradesh,Psychiatry,+91-6554651107,https://www.vijaya-health-centre.example
+HOSP00100,Be Well Hospitals - Kochi 5,"662, Airport Road",Kochi,Kerala,General Surgery,+91-6939410411,https://www.be-well-hospitals.example
+HOSP00101,Apollo Hospitals - Chennai 6,"805, Airport Road",Chennai,Tamil Nadu,General Medicine,+91-9842345125,https://www.apollo-hospitals.example
+HOSP00102,Fortis Healthcare - Coimbatore 6,"980, Hospital Road",Coimbatore,Tamil Nadu,Cardiology,+91-6688872719,https://www.fortis-healthcare.example
+HOSP00103,MIOT International - Madurai 6,"678, Hospital Road",Madurai,Tamil Nadu,Neurology,+91-7674914576,https://www.miot-international.example
+HOSP00104,Sri Ramachandra Medical Centre - Trichy 6,"280, Park Street",Trichy,Tamil Nadu,Orthopedics,+91-8289264439,https://www.sri-ramachandra-medical-centre.example
+HOSP00105,Kauvery Hospital - Salem 6,"425, Medical College Road",Salem,Tamil Nadu,Pediatrics,+91-7645768523,https://www.kauvery-hospital.example
+HOSP00106,Global Hospitals - Tirunelveli 6,"313, Hospital Road",Tirunelveli,Tamil Nadu,Gynecology,+91-7477752127,https://www.global-hospitals.example
+HOSP00107,SIMS Hospital - Hyderabad 6,"179, Anna Salai",Hyderabad,Telangana,Dermatology,+91-7992500832,https://www.sims-hospital.example
+HOSP00108,MGM Healthcare - Bengaluru 6,"510, Park Street",Bengaluru,Karnataka,Ophthalmology,+91-7235534370,https://www.mgm-healthcare.example
+HOSP00109,Billroth Hospitals - Kochi 6,"479, Hospital Road",Kochi,Kerala,ENT,+91-7399254242,https://www.billroth-hospitals.example
+HOSP00110,Vijaya Hospital - Vijayawada 6,"532, Station Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-7909469009,https://www.vijaya-hospital.example
+HOSP00111,Sankara Nethralaya - Visakhapatnam 6,"123, Airport Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-9421381552,https://www.sankara-nethralaya.example
+HOSP00112,Kanchi Kamakoti CHILDS Trust Hospital - Pune 6,"538, Anna Salai",Pune,Maharashtra,Endocrinology,+91-9505347638,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00113,Government General Hospital - Mumbai 6,"97, MG Road",Mumbai,Maharashtra,Pulmonology,+91-6993575479,https://www.government-general-hospital.example
+HOSP00114,Rajiv Gandhi Government General Hospital - Delhi 6,"6, Medical College Road",Delhi,Delhi,Oncology,+91-9773647458,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00115,Dr. Mehta's Hospitals - Kolkata 6,"466, Ring Road",Kolkata,West Bengal,Urology,+91-7752357227,https://www.dr-mehtas-hospitals.example
+HOSP00116,Cloudnine Hospital - Bhubaneswar 6,"559, Hospital Road",Bhubaneswar,Odisha,Radiology,+91-6116757711,https://www.cloudnine-hospital.example
+HOSP00117,Prashanth Hospitals - Ahmedabad 6,"361, Hospital Road",Ahmedabad,Gujarat,Pathology,+91-7510547414,https://www.prashanth-hospitals.example
+HOSP00118,Hindu Mission Hospital - Jaipur 6,"576, Lake View Road",Jaipur,Rajasthan,Emergency Medicine,+91-9400768007,https://www.hindu-mission-hospital.example
+HOSP00119,Vijaya Health Centre - Lucknow 6,"552, MG Road",Lucknow,Uttar Pradesh,Psychiatry,+91-6471130002,https://www.vijaya-health-centre.example
+HOSP00120,Be Well Hospitals - Kochi 6,"636, Anna Salai",Kochi,Kerala,General Surgery,+91-8387141768,https://www.be-well-hospitals.example
+HOSP00121,Apollo Hospitals - Chennai 7,"770, Lake View Road",Chennai,Tamil Nadu,General Medicine,+91-9139494357,https://www.apollo-hospitals.example
+HOSP00122,Fortis Healthcare - Coimbatore 7,"220, Lake View Road",Coimbatore,Tamil Nadu,Cardiology,+91-7265727380,https://www.fortis-healthcare.example
+HOSP00123,MIOT International - Madurai 7,"577, Anna Salai",Madurai,Tamil Nadu,Neurology,+91-8878948192,https://www.miot-international.example
+HOSP00124,Sri Ramachandra Medical Centre - Trichy 7,"570, Hospital Road",Trichy,Tamil Nadu,Orthopedics,+91-6435749075,https://www.sri-ramachandra-medical-centre.example
+HOSP00125,Kauvery Hospital - Salem 7,"801, Anna Salai",Salem,Tamil Nadu,Pediatrics,+91-6414166868,https://www.kauvery-hospital.example
+HOSP00126,Global Hospitals - Tirunelveli 7,"978, Park Street",Tirunelveli,Tamil Nadu,Gynecology,+91-6735620897,https://www.global-hospitals.example
+HOSP00127,SIMS Hospital - Hyderabad 7,"109, Main Road",Hyderabad,Telangana,Dermatology,+91-9260364377,https://www.sims-hospital.example
+HOSP00128,MGM Healthcare - Bengaluru 7,"365, Hospital Road",Bengaluru,Karnataka,Ophthalmology,+91-8774310030,https://www.mgm-healthcare.example
+HOSP00129,Billroth Hospitals - Kochi 7,"646, Medical College Road",Kochi,Kerala,ENT,+91-8175945118,https://www.billroth-hospitals.example
+HOSP00130,Vijaya Hospital - Vijayawada 7,"322, Anna Salai",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8525907038,https://www.vijaya-hospital.example
+HOSP00131,Sankara Nethralaya - Visakhapatnam 7,"858, Medical College Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-7249990743,https://www.sankara-nethralaya.example
+HOSP00132,Kanchi Kamakoti CHILDS Trust Hospital - Pune 7,"955, Ring Road",Pune,Maharashtra,Endocrinology,+91-6693168558,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00133,Government General Hospital - Mumbai 7,"268, Anna Salai",Mumbai,Maharashtra,Pulmonology,+91-6270063605,https://www.government-general-hospital.example
+HOSP00134,Rajiv Gandhi Government General Hospital - Delhi 7,"15, Park Street",Delhi,Delhi,Oncology,+91-9721561320,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00135,Dr. Mehta's Hospitals - Kolkata 7,"920, Anna Salai",Kolkata,West Bengal,Urology,+91-7780385293,https://www.dr-mehtas-hospitals.example
+HOSP00136,Cloudnine Hospital - Bhubaneswar 7,"989, Main Road",Bhubaneswar,Odisha,Radiology,+91-6246151497,https://www.cloudnine-hospital.example
+HOSP00137,Prashanth Hospitals - Ahmedabad 7,"99, MG Road",Ahmedabad,Gujarat,Pathology,+91-6098688507,https://www.prashanth-hospitals.example
+HOSP00138,Hindu Mission Hospital - Jaipur 7,"318, Medical College Road",Jaipur,Rajasthan,Emergency Medicine,+91-6403169199,https://www.hindu-mission-hospital.example
+HOSP00139,Vijaya Health Centre - Lucknow 7,"703, Airport Road",Lucknow,Uttar Pradesh,Psychiatry,+91-8475967256,https://www.vijaya-health-centre.example
+HOSP00140,Be Well Hospitals - Kochi 7,"959, Ring Road",Kochi,Kerala,General Surgery,+91-7352804891,https://www.be-well-hospitals.example
+HOSP00141,Apollo Hospitals - Chennai 8,"799, Station Road",Chennai,Tamil Nadu,General Medicine,+91-8608140625,https://www.apollo-hospitals.example
+HOSP00142,Fortis Healthcare - Coimbatore 8,"641, Lake View Road",Coimbatore,Tamil Nadu,Cardiology,+91-6163255380,https://www.fortis-healthcare.example
+HOSP00143,MIOT International - Madurai 8,"947, Park Street",Madurai,Tamil Nadu,Neurology,+91-7357483373,https://www.miot-international.example
+HOSP00144,Sri Ramachandra Medical Centre - Trichy 8,"623, MG Road",Trichy,Tamil Nadu,Orthopedics,+91-8551457298,https://www.sri-ramachandra-medical-centre.example
+HOSP00145,Kauvery Hospital - Salem 8,"474, Park Street",Salem,Tamil Nadu,Pediatrics,+91-8903051159,https://www.kauvery-hospital.example
+HOSP00146,Global Hospitals - Tirunelveli 8,"900, Medical College Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8948338116,https://www.global-hospitals.example
+HOSP00147,SIMS Hospital - Hyderabad 8,"384, Airport Road",Hyderabad,Telangana,Dermatology,+91-8926606570,https://www.sims-hospital.example
+HOSP00148,MGM Healthcare - Bengaluru 8,"998, Anna Salai",Bengaluru,Karnataka,Ophthalmology,+91-7670945465,https://www.mgm-healthcare.example
+HOSP00149,Billroth Hospitals - Kochi 8,"299, Ring Road",Kochi,Kerala,ENT,+91-6247522018,https://www.billroth-hospitals.example
+HOSP00150,Vijaya Hospital - Vijayawada 8,"754, Park Street",Vijayawada,Andhra Pradesh,Gastroenterology,+91-9772774153,https://www.vijaya-hospital.example
+HOSP00151,Sankara Nethralaya - Visakhapatnam 8,"25, Anna Salai",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8986293464,https://www.sankara-nethralaya.example
+HOSP00152,Kanchi Kamakoti CHILDS Trust Hospital - Pune 8,"339, Anna Salai",Pune,Maharashtra,Endocrinology,+91-9122985144,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00153,Government General Hospital - Mumbai 8,"982, Medical College Road",Mumbai,Maharashtra,Pulmonology,+91-7275356256,https://www.government-general-hospital.example
+HOSP00154,Rajiv Gandhi Government General Hospital - Delhi 8,"787, Park Street",Delhi,Delhi,Oncology,+91-7369589998,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00155,Dr. Mehta's Hospitals - Kolkata 8,"600, Main Road",Kolkata,West Bengal,Urology,+91-8328545861,https://www.dr-mehtas-hospitals.example
+HOSP00156,Cloudnine Hospital - Bhubaneswar 8,"980, Ring Road",Bhubaneswar,Odisha,Radiology,+91-6848033966,https://www.cloudnine-hospital.example
+HOSP00157,Prashanth Hospitals - Ahmedabad 8,"575, Main Road",Ahmedabad,Gujarat,Pathology,+91-9099584378,https://www.prashanth-hospitals.example
+HOSP00158,Hindu Mission Hospital - Jaipur 8,"116, Hospital Road",Jaipur,Rajasthan,Emergency Medicine,+91-8658457168,https://www.hindu-mission-hospital.example
+HOSP00159,Vijaya Health Centre - Lucknow 8,"126, Medical College Road",Lucknow,Uttar Pradesh,Psychiatry,+91-6160282720,https://www.vijaya-health-centre.example
+HOSP00160,Be Well Hospitals - Kochi 8,"129, Airport Road",Kochi,Kerala,General Surgery,+91-7520593017,https://www.be-well-hospitals.example
+HOSP00161,Apollo Hospitals - Chennai 9,"612, Anna Salai",Chennai,Tamil Nadu,General Medicine,+91-6123670045,https://www.apollo-hospitals.example
+HOSP00162,Fortis Healthcare - Coimbatore 9,"435, Lake View Road",Coimbatore,Tamil Nadu,Cardiology,+91-6542444985,https://www.fortis-healthcare.example
+HOSP00163,MIOT International - Madurai 9,"365, Park Street",Madurai,Tamil Nadu,Neurology,+91-7649722352,https://www.miot-international.example
+HOSP00164,Sri Ramachandra Medical Centre - Trichy 9,"387, MG Road",Trichy,Tamil Nadu,Orthopedics,+91-9335469082,https://www.sri-ramachandra-medical-centre.example
+HOSP00165,Kauvery Hospital - Salem 9,"432, MG Road",Salem,Tamil Nadu,Pediatrics,+91-9328203515,https://www.kauvery-hospital.example
+HOSP00166,Global Hospitals - Tirunelveli 9,"129, Hospital Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8331853998,https://www.global-hospitals.example
+HOSP00167,SIMS Hospital - Hyderabad 9,"30, Airport Road",Hyderabad,Telangana,Dermatology,+91-8936693064,https://www.sims-hospital.example
+HOSP00168,MGM Healthcare - Bengaluru 9,"569, Park Street",Bengaluru,Karnataka,Ophthalmology,+91-9818853335,https://www.mgm-healthcare.example
+HOSP00169,Billroth Hospitals - Kochi 9,"262, Hospital Road",Kochi,Kerala,ENT,+91-6980351187,https://www.billroth-hospitals.example
+HOSP00170,Vijaya Hospital - Vijayawada 9,"24, Main Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-7188982511,https://www.vijaya-hospital.example
+HOSP00171,Sankara Nethralaya - Visakhapatnam 9,"555, Station Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-7794779953,https://www.sankara-nethralaya.example
+HOSP00172,Kanchi Kamakoti CHILDS Trust Hospital - Pune 9,"271, Ring Road",Pune,Maharashtra,Endocrinology,+91-6595529184,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00173,Government General Hospital - Mumbai 9,"967, Lake View Road",Mumbai,Maharashtra,Pulmonology,+91-6384171076,https://www.government-general-hospital.example
+HOSP00174,Rajiv Gandhi Government General Hospital - Delhi 9,"860, Hospital Road",Delhi,Delhi,Oncology,+91-8375040102,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00175,Dr. Mehta's Hospitals - Kolkata 9,"39, Airport Road",Kolkata,West Bengal,Urology,+91-9521286196,https://www.dr-mehtas-hospitals.example
+HOSP00176,Cloudnine Hospital - Bhubaneswar 9,"272, Ring Road",Bhubaneswar,Odisha,Radiology,+91-8718742444,https://www.cloudnine-hospital.example
+HOSP00177,Prashanth Hospitals - Ahmedabad 9,"533, Ring Road",Ahmedabad,Gujarat,Pathology,+91-6241616574,https://www.prashanth-hospitals.example
+HOSP00178,Hindu Mission Hospital - Jaipur 9,"674, Main Road",Jaipur,Rajasthan,Emergency Medicine,+91-8696630221,https://www.hindu-mission-hospital.example
+HOSP00179,Vijaya Health Centre - Lucknow 9,"249, Station Road",Lucknow,Uttar Pradesh,Psychiatry,+91-6250383353,https://www.vijaya-health-centre.example
+HOSP00180,Be Well Hospitals - Kochi 9,"994, MG Road",Kochi,Kerala,General Surgery,+91-8916897793,https://www.be-well-hospitals.example
+HOSP00181,Apollo Hospitals - Chennai 10,"521, Hospital Road",Chennai,Tamil Nadu,General Medicine,+91-9982420865,https://www.apollo-hospitals.example
+HOSP00182,Fortis Healthcare - Coimbatore 10,"764, Park Street",Coimbatore,Tamil Nadu,Cardiology,+91-9037699692,https://www.fortis-healthcare.example
+HOSP00183,MIOT International - Madurai 10,"369, MG Road",Madurai,Tamil Nadu,Neurology,+91-8412011681,https://www.miot-international.example
+HOSP00184,Sri Ramachandra Medical Centre - Trichy 10,"849, Anna Salai",Trichy,Tamil Nadu,Orthopedics,+91-7476128491,https://www.sri-ramachandra-medical-centre.example
+HOSP00185,Kauvery Hospital - Salem 10,"882, MG Road",Salem,Tamil Nadu,Pediatrics,+91-7609438152,https://www.kauvery-hospital.example
+HOSP00186,Global Hospitals - Tirunelveli 10,"368, Station Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8735943126,https://www.global-hospitals.example
+HOSP00187,SIMS Hospital - Hyderabad 10,"469, Airport Road",Hyderabad,Telangana,Dermatology,+91-9485097592,https://www.sims-hospital.example
+HOSP00188,MGM Healthcare - Bengaluru 10,"486, Lake View Road",Bengaluru,Karnataka,Ophthalmology,+91-7340861552,https://www.mgm-healthcare.example
+HOSP00189,Billroth Hospitals - Kochi 10,"193, Hospital Road",Kochi,Kerala,ENT,+91-8697310732,https://www.billroth-hospitals.example
+HOSP00190,Vijaya Hospital - Vijayawada 10,"421, Hospital Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8082443651,https://www.vijaya-hospital.example
+HOSP00191,Sankara Nethralaya - Visakhapatnam 10,"916, Main Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-7522275064,https://www.sankara-nethralaya.example
+HOSP00192,Kanchi Kamakoti CHILDS Trust Hospital - Pune 10,"834, Airport Road",Pune,Maharashtra,Endocrinology,+91-9016564252,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00193,Government General Hospital - Mumbai 10,"419, Main Road",Mumbai,Maharashtra,Pulmonology,+91-8744983686,https://www.government-general-hospital.example
+HOSP00194,Rajiv Gandhi Government General Hospital - Delhi 10,"177, Medical College Road",Delhi,Delhi,Oncology,+91-7284350722,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00195,Dr. Mehta's Hospitals - Kolkata 10,"382, Airport Road",Kolkata,West Bengal,Urology,+91-9139656674,https://www.dr-mehtas-hospitals.example
+HOSP00196,Cloudnine Hospital - Bhubaneswar 10,"272, Hospital Road",Bhubaneswar,Odisha,Radiology,+91-9069686736,https://www.cloudnine-hospital.example
+HOSP00197,Prashanth Hospitals - Ahmedabad 10,"758, Medical College Road",Ahmedabad,Gujarat,Pathology,+91-9880530279,https://www.prashanth-hospitals.example
+HOSP00198,Hindu Mission Hospital - Jaipur 10,"19, Airport Road",Jaipur,Rajasthan,Emergency Medicine,+91-6932534395,https://www.hindu-mission-hospital.example
+HOSP00199,Vijaya Health Centre - Lucknow 10,"871, Lake View Road",Lucknow,Uttar Pradesh,Psychiatry,+91-7317311739,https://www.vijaya-health-centre.example
+HOSP00200,Be Well Hospitals - Kochi 10,"587, Main Road",Kochi,Kerala,General Surgery,+91-7689107690,https://www.be-well-hospitals.example
+HOSP00201,Apollo Hospitals - Chennai 11,"390, Airport Road",Chennai,Tamil Nadu,General Medicine,+91-8218762629,https://www.apollo-hospitals.example
+HOSP00202,Fortis Healthcare - Coimbatore 11,"832, Hospital Road",Coimbatore,Tamil Nadu,Cardiology,+91-8185113890,https://www.fortis-healthcare.example
+HOSP00203,MIOT International - Madurai 11,"108, Medical College Road",Madurai,Tamil Nadu,Neurology,+91-6609422924,https://www.miot-international.example
+HOSP00204,Sri Ramachandra Medical Centre - Trichy 11,"751, Park Street",Trichy,Tamil Nadu,Orthopedics,+91-7432843807,https://www.sri-ramachandra-medical-centre.example
+HOSP00205,Kauvery Hospital - Salem 11,"561, Anna Salai",Salem,Tamil Nadu,Pediatrics,+91-7333242809,https://www.kauvery-hospital.example
+HOSP00206,Global Hospitals - Tirunelveli 11,"43, Lake View Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8844406737,https://www.global-hospitals.example
+HOSP00207,SIMS Hospital - Hyderabad 11,"807, MG Road",Hyderabad,Telangana,Dermatology,+91-6696689449,https://www.sims-hospital.example
+HOSP00208,MGM Healthcare - Bengaluru 11,"921, Anna Salai",Bengaluru,Karnataka,Ophthalmology,+91-7268268811,https://www.mgm-healthcare.example
+HOSP00209,Billroth Hospitals - Kochi 11,"555, Anna Salai",Kochi,Kerala,ENT,+91-7534262469,https://www.billroth-hospitals.example
+HOSP00210,Vijaya Hospital - Vijayawada 11,"138, Park Street",Vijayawada,Andhra Pradesh,Gastroenterology,+91-6810448082,https://www.vijaya-hospital.example
+HOSP00211,Sankara Nethralaya - Visakhapatnam 11,"765, Main Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-9639164662,https://www.sankara-nethralaya.example
+HOSP00212,Kanchi Kamakoti CHILDS Trust Hospital - Pune 11,"621, Station Road",Pune,Maharashtra,Endocrinology,+91-7815280397,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00213,Government General Hospital - Mumbai 11,"365, Airport Road",Mumbai,Maharashtra,Pulmonology,+91-6733946483,https://www.government-general-hospital.example
+HOSP00214,Rajiv Gandhi Government General Hospital - Delhi 11,"740, Airport Road",Delhi,Delhi,Oncology,+91-6126756425,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00215,Dr. Mehta's Hospitals - Kolkata 11,"184, Ring Road",Kolkata,West Bengal,Urology,+91-8315401479,https://www.dr-mehtas-hospitals.example
+HOSP00216,Cloudnine Hospital - Bhubaneswar 11,"149, Hospital Road",Bhubaneswar,Odisha,Radiology,+91-6122054676,https://www.cloudnine-hospital.example
+HOSP00217,Prashanth Hospitals - Ahmedabad 11,"909, Medical College Road",Ahmedabad,Gujarat,Pathology,+91-8211874685,https://www.prashanth-hospitals.example
+HOSP00218,Hindu Mission Hospital - Jaipur 11,"684, Main Road",Jaipur,Rajasthan,Emergency Medicine,+91-9615988964,https://www.hindu-mission-hospital.example
+HOSP00219,Vijaya Health Centre - Lucknow 11,"384, Medical College Road",Lucknow,Uttar Pradesh,Psychiatry,+91-7580533087,https://www.vijaya-health-centre.example
+HOSP00220,Be Well Hospitals - Kochi 11,"310, MG Road",Kochi,Kerala,General Surgery,+91-8285489905,https://www.be-well-hospitals.example
+HOSP00221,Apollo Hospitals - Chennai 12,"158, Lake View Road",Chennai,Tamil Nadu,General Medicine,+91-8620009920,https://www.apollo-hospitals.example
+HOSP00222,Fortis Healthcare - Coimbatore 12,"255, Hospital Road",Coimbatore,Tamil Nadu,Cardiology,+91-6456422196,https://www.fortis-healthcare.example
+HOSP00223,MIOT International - Madurai 12,"335, Station Road",Madurai,Tamil Nadu,Neurology,+91-6461251642,https://www.miot-international.example
+HOSP00224,Sri Ramachandra Medical Centre - Trichy 12,"895, Medical College Road",Trichy,Tamil Nadu,Orthopedics,+91-7637235415,https://www.sri-ramachandra-medical-centre.example
+HOSP00225,Kauvery Hospital - Salem 12,"269, Lake View Road",Salem,Tamil Nadu,Pediatrics,+91-7294912357,https://www.kauvery-hospital.example
+HOSP00226,Global Hospitals - Tirunelveli 12,"664, Medical College Road",Tirunelveli,Tamil Nadu,Gynecology,+91-7493785618,https://www.global-hospitals.example
+HOSP00227,SIMS Hospital - Hyderabad 12,"486, Station Road",Hyderabad,Telangana,Dermatology,+91-6519427452,https://www.sims-hospital.example
+HOSP00228,MGM Healthcare - Bengaluru 12,"569, Airport Road",Bengaluru,Karnataka,Ophthalmology,+91-7060972222,https://www.mgm-healthcare.example
+HOSP00229,Billroth Hospitals - Kochi 12,"849, Ring Road",Kochi,Kerala,ENT,+91-8935756342,https://www.billroth-hospitals.example
+HOSP00230,Vijaya Hospital - Vijayawada 12,"835, Station Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-9941441065,https://www.vijaya-hospital.example
+HOSP00231,Sankara Nethralaya - Visakhapatnam 12,"600, Ring Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-6354547282,https://www.sankara-nethralaya.example
+HOSP00232,Kanchi Kamakoti CHILDS Trust Hospital - Pune 12,"71, Medical College Road",Pune,Maharashtra,Endocrinology,+91-9472133338,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00233,Government General Hospital - Mumbai 12,"507, Anna Salai",Mumbai,Maharashtra,Pulmonology,+91-7139471989,https://www.government-general-hospital.example
+HOSP00234,Rajiv Gandhi Government General Hospital - Delhi 12,"772, MG Road",Delhi,Delhi,Oncology,+91-6723021334,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00235,Dr. Mehta's Hospitals - Kolkata 12,"333, Park Street",Kolkata,West Bengal,Urology,+91-8174422104,https://www.dr-mehtas-hospitals.example
+HOSP00236,Cloudnine Hospital - Bhubaneswar 12,"576, Ring Road",Bhubaneswar,Odisha,Radiology,+91-7385958557,https://www.cloudnine-hospital.example
+HOSP00237,Prashanth Hospitals - Ahmedabad 12,"929, Station Road",Ahmedabad,Gujarat,Pathology,+91-7731169707,https://www.prashanth-hospitals.example
+HOSP00238,Hindu Mission Hospital - Jaipur 12,"322, Hospital Road",Jaipur,Rajasthan,Emergency Medicine,+91-6843899613,https://www.hindu-mission-hospital.example
+HOSP00239,Vijaya Health Centre - Lucknow 12,"826, Station Road",Lucknow,Uttar Pradesh,Psychiatry,+91-6945626263,https://www.vijaya-health-centre.example
+HOSP00240,Be Well Hospitals - Kochi 12,"887, Ring Road",Kochi,Kerala,General Surgery,+91-9259129806,https://www.be-well-hospitals.example
+HOSP00241,Apollo Hospitals - Chennai 13,"807, Ring Road",Chennai,Tamil Nadu,General Medicine,+91-7759647743,https://www.apollo-hospitals.example
+HOSP00242,Fortis Healthcare - Coimbatore 13,"852, Lake View Road",Coimbatore,Tamil Nadu,Cardiology,+91-7639078152,https://www.fortis-healthcare.example
+HOSP00243,MIOT International - Madurai 13,"218, Hospital Road",Madurai,Tamil Nadu,Neurology,+91-7896965837,https://www.miot-international.example
+HOSP00244,Sri Ramachandra Medical Centre - Trichy 13,"761, Lake View Road",Trichy,Tamil Nadu,Orthopedics,+91-8821111913,https://www.sri-ramachandra-medical-centre.example
+HOSP00245,Kauvery Hospital - Salem 13,"754, Hospital Road",Salem,Tamil Nadu,Pediatrics,+91-7852400454,https://www.kauvery-hospital.example
+HOSP00246,Global Hospitals - Tirunelveli 13,"275, Ring Road",Tirunelveli,Tamil Nadu,Gynecology,+91-9589072595,https://www.global-hospitals.example
+HOSP00247,SIMS Hospital - Hyderabad 13,"121, Ring Road",Hyderabad,Telangana,Dermatology,+91-7144419151,https://www.sims-hospital.example
+HOSP00248,MGM Healthcare - Bengaluru 13,"862, Station Road",Bengaluru,Karnataka,Ophthalmology,+91-7132251899,https://www.mgm-healthcare.example
+HOSP00249,Billroth Hospitals - Kochi 13,"149, Airport Road",Kochi,Kerala,ENT,+91-8692415405,https://www.billroth-hospitals.example
+HOSP00250,Vijaya Hospital - Vijayawada 13,"275, MG Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-7424948299,https://www.vijaya-hospital.example
+HOSP00251,Sankara Nethralaya - Visakhapatnam 13,"996, Hospital Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8410764861,https://www.sankara-nethralaya.example
+HOSP00252,Kanchi Kamakoti CHILDS Trust Hospital - Pune 13,"791, Medical College Road",Pune,Maharashtra,Endocrinology,+91-7150664795,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00253,Government General Hospital - Mumbai 13,"301, Lake View Road",Mumbai,Maharashtra,Pulmonology,+91-7967369697,https://www.government-general-hospital.example
+HOSP00254,Rajiv Gandhi Government General Hospital - Delhi 13,"649, Park Street",Delhi,Delhi,Oncology,+91-7715626004,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00255,Dr. Mehta's Hospitals - Kolkata 13,"23, Airport Road",Kolkata,West Bengal,Urology,+91-9077182100,https://www.dr-mehtas-hospitals.example
+HOSP00256,Cloudnine Hospital - Bhubaneswar 13,"338, Park Street",Bhubaneswar,Odisha,Radiology,+91-7446704254,https://www.cloudnine-hospital.example
+HOSP00257,Prashanth Hospitals - Ahmedabad 13,"98, Station Road",Ahmedabad,Gujarat,Pathology,+91-9902157211,https://www.prashanth-hospitals.example
+HOSP00258,Hindu Mission Hospital - Jaipur 13,"695, Airport Road",Jaipur,Rajasthan,Emergency Medicine,+91-8219168164,https://www.hindu-mission-hospital.example
+HOSP00259,Vijaya Health Centre - Lucknow 13,"215, Park Street",Lucknow,Uttar Pradesh,Psychiatry,+91-7512517579,https://www.vijaya-health-centre.example
+HOSP00260,Be Well Hospitals - Kochi 13,"664, Ring Road",Kochi,Kerala,General Surgery,+91-6257832847,https://www.be-well-hospitals.example
+HOSP00261,Apollo Hospitals - Chennai 14,"946, Park Street",Chennai,Tamil Nadu,General Medicine,+91-9111429280,https://www.apollo-hospitals.example
+HOSP00262,Fortis Healthcare - Coimbatore 14,"178, Main Road",Coimbatore,Tamil Nadu,Cardiology,+91-7146991877,https://www.fortis-healthcare.example
+HOSP00263,MIOT International - Madurai 14,"573, Anna Salai",Madurai,Tamil Nadu,Neurology,+91-6560919252,https://www.miot-international.example
+HOSP00264,Sri Ramachandra Medical Centre - Trichy 14,"343, Lake View Road",Trichy,Tamil Nadu,Orthopedics,+91-8767533876,https://www.sri-ramachandra-medical-centre.example
+HOSP00265,Kauvery Hospital - Salem 14,"627, Park Street",Salem,Tamil Nadu,Pediatrics,+91-9577372346,https://www.kauvery-hospital.example
+HOSP00266,Global Hospitals - Tirunelveli 14,"797, Station Road",Tirunelveli,Tamil Nadu,Gynecology,+91-9656439792,https://www.global-hospitals.example
+HOSP00267,SIMS Hospital - Hyderabad 14,"911, Station Road",Hyderabad,Telangana,Dermatology,+91-7454905342,https://www.sims-hospital.example
+HOSP00268,MGM Healthcare - Bengaluru 14,"13, Main Road",Bengaluru,Karnataka,Ophthalmology,+91-9252450270,https://www.mgm-healthcare.example
+HOSP00269,Billroth Hospitals - Kochi 14,"226, Medical College Road",Kochi,Kerala,ENT,+91-8837584142,https://www.billroth-hospitals.example
+HOSP00270,Vijaya Hospital - Vijayawada 14,"873, Anna Salai",Vijayawada,Andhra Pradesh,Gastroenterology,+91-7402795050,https://www.vijaya-hospital.example
+HOSP00271,Sankara Nethralaya - Visakhapatnam 14,"19, MG Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-9396222920,https://www.sankara-nethralaya.example
+HOSP00272,Kanchi Kamakoti CHILDS Trust Hospital - Pune 14,"469, Airport Road",Pune,Maharashtra,Endocrinology,+91-7189316986,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00273,Government General Hospital - Mumbai 14,"638, Ring Road",Mumbai,Maharashtra,Pulmonology,+91-6339250690,https://www.government-general-hospital.example
+HOSP00274,Rajiv Gandhi Government General Hospital - Delhi 14,"570, MG Road",Delhi,Delhi,Oncology,+91-8314820802,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00275,Dr. Mehta's Hospitals - Kolkata 14,"788, Main Road",Kolkata,West Bengal,Urology,+91-6410566847,https://www.dr-mehtas-hospitals.example
+HOSP00276,Cloudnine Hospital - Bhubaneswar 14,"160, Ring Road",Bhubaneswar,Odisha,Radiology,+91-6942334314,https://www.cloudnine-hospital.example
+HOSP00277,Prashanth Hospitals - Ahmedabad 14,"966, Station Road",Ahmedabad,Gujarat,Pathology,+91-6886356380,https://www.prashanth-hospitals.example
+HOSP00278,Hindu Mission Hospital - Jaipur 14,"621, Hospital Road",Jaipur,Rajasthan,Emergency Medicine,+91-9030167649,https://www.hindu-mission-hospital.example
+HOSP00279,Vijaya Health Centre - Lucknow 14,"317, Medical College Road",Lucknow,Uttar Pradesh,Psychiatry,+91-8437933101,https://www.vijaya-health-centre.example
+HOSP00280,Be Well Hospitals - Kochi 14,"428, Airport Road",Kochi,Kerala,General Surgery,+91-8925475402,https://www.be-well-hospitals.example
+HOSP00281,Apollo Hospitals - Chennai 15,"604, Airport Road",Chennai,Tamil Nadu,General Medicine,+91-6572315428,https://www.apollo-hospitals.example
+HOSP00282,Fortis Healthcare - Coimbatore 15,"111, Main Road",Coimbatore,Tamil Nadu,Cardiology,+91-7163397872,https://www.fortis-healthcare.example
+HOSP00283,MIOT International - Madurai 15,"962, Park Street",Madurai,Tamil Nadu,Neurology,+91-6191036165,https://www.miot-international.example
+HOSP00284,Sri Ramachandra Medical Centre - Trichy 15,"190, Airport Road",Trichy,Tamil Nadu,Orthopedics,+91-9153582479,https://www.sri-ramachandra-medical-centre.example
+HOSP00285,Kauvery Hospital - Salem 15,"526, MG Road",Salem,Tamil Nadu,Pediatrics,+91-9910400218,https://www.kauvery-hospital.example
+HOSP00286,Global Hospitals - Tirunelveli 15,"483, Ring Road",Tirunelveli,Tamil Nadu,Gynecology,+91-7475570854,https://www.global-hospitals.example
+HOSP00287,SIMS Hospital - Hyderabad 15,"356, Ring Road",Hyderabad,Telangana,Dermatology,+91-8605354250,https://www.sims-hospital.example
+HOSP00288,MGM Healthcare - Bengaluru 15,"492, Anna Salai",Bengaluru,Karnataka,Ophthalmology,+91-8097301630,https://www.mgm-healthcare.example
+HOSP00289,Billroth Hospitals - Kochi 15,"905, Ring Road",Kochi,Kerala,ENT,+91-9603308908,https://www.billroth-hospitals.example
+HOSP00290,Vijaya Hospital - Vijayawada 15,"257, Main Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8764229660,https://www.vijaya-hospital.example
+HOSP00291,Sankara Nethralaya - Visakhapatnam 15,"502, Hospital Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-6093519190,https://www.sankara-nethralaya.example
+HOSP00292,Kanchi Kamakoti CHILDS Trust Hospital - Pune 15,"493, Ring Road",Pune,Maharashtra,Endocrinology,+91-7090289435,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00293,Government General Hospital - Mumbai 15,"857, Station Road",Mumbai,Maharashtra,Pulmonology,+91-6853556462,https://www.government-general-hospital.example
+HOSP00294,Rajiv Gandhi Government General Hospital - Delhi 15,"377, Anna Salai",Delhi,Delhi,Oncology,+91-8200284821,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00295,Dr. Mehta's Hospitals - Kolkata 15,"863, Park Street",Kolkata,West Bengal,Urology,+91-7305960295,https://www.dr-mehtas-hospitals.example
+HOSP00296,Cloudnine Hospital - Bhubaneswar 15,"224, Lake View Road",Bhubaneswar,Odisha,Radiology,+91-6232734237,https://www.cloudnine-hospital.example
+HOSP00297,Prashanth Hospitals - Ahmedabad 15,"835, Park Street",Ahmedabad,Gujarat,Pathology,+91-9706271716,https://www.prashanth-hospitals.example
+HOSP00298,Hindu Mission Hospital - Jaipur 15,"67, Airport Road",Jaipur,Rajasthan,Emergency Medicine,+91-8929410490,https://www.hindu-mission-hospital.example
+HOSP00299,Vijaya Health Centre - Lucknow 15,"546, Anna Salai",Lucknow,Uttar Pradesh,Psychiatry,+91-8072739232,https://www.vijaya-health-centre.example
+HOSP00300,Be Well Hospitals - Kochi 15,"632, Medical College Road",Kochi,Kerala,General Surgery,+91-9663820894,https://www.be-well-hospitals.example
+HOSP00301,Apollo Hospitals - Chennai 16,"522, Airport Road",Chennai,Tamil Nadu,General Medicine,+91-8559072871,https://www.apollo-hospitals.example
+HOSP00302,Fortis Healthcare - Coimbatore 16,"333, Station Road",Coimbatore,Tamil Nadu,Cardiology,+91-7365522675,https://www.fortis-healthcare.example
+HOSP00303,MIOT International - Madurai 16,"677, Ring Road",Madurai,Tamil Nadu,Neurology,+91-7546528806,https://www.miot-international.example
+HOSP00304,Sri Ramachandra Medical Centre - Trichy 16,"186, Medical College Road",Trichy,Tamil Nadu,Orthopedics,+91-8413955620,https://www.sri-ramachandra-medical-centre.example
+HOSP00305,Kauvery Hospital - Salem 16,"885, Hospital Road",Salem,Tamil Nadu,Pediatrics,+91-9261269583,https://www.kauvery-hospital.example
+HOSP00306,Global Hospitals - Tirunelveli 16,"264, Airport Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8235711939,https://www.global-hospitals.example
+HOSP00307,SIMS Hospital - Hyderabad 16,"890, Park Street",Hyderabad,Telangana,Dermatology,+91-8708154545,https://www.sims-hospital.example
+HOSP00308,MGM Healthcare - Bengaluru 16,"109, Lake View Road",Bengaluru,Karnataka,Ophthalmology,+91-6922746587,https://www.mgm-healthcare.example
+HOSP00309,Billroth Hospitals - Kochi 16,"30, Station Road",Kochi,Kerala,ENT,+91-7034637496,https://www.billroth-hospitals.example
+HOSP00310,Vijaya Hospital - Vijayawada 16,"215, Park Street",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8181990693,https://www.vijaya-hospital.example
+HOSP00311,Sankara Nethralaya - Visakhapatnam 16,"877, Airport Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-6543251333,https://www.sankara-nethralaya.example
+HOSP00312,Kanchi Kamakoti CHILDS Trust Hospital - Pune 16,"527, MG Road",Pune,Maharashtra,Endocrinology,+91-9400245961,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00313,Government General Hospital - Mumbai 16,"882, Anna Salai",Mumbai,Maharashtra,Pulmonology,+91-9331970543,https://www.government-general-hospital.example
+HOSP00314,Rajiv Gandhi Government General Hospital - Delhi 16,"895, Station Road",Delhi,Delhi,Oncology,+91-6587168814,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00315,Dr. Mehta's Hospitals - Kolkata 16,"573, Ring Road",Kolkata,West Bengal,Urology,+91-7562276095,https://www.dr-mehtas-hospitals.example
+HOSP00316,Cloudnine Hospital - Bhubaneswar 16,"667, Park Street",Bhubaneswar,Odisha,Radiology,+91-8287941482,https://www.cloudnine-hospital.example
+HOSP00317,Prashanth Hospitals - Ahmedabad 16,"631, Airport Road",Ahmedabad,Gujarat,Pathology,+91-6811978613,https://www.prashanth-hospitals.example
+HOSP00318,Hindu Mission Hospital - Jaipur 16,"156, Lake View Road",Jaipur,Rajasthan,Emergency Medicine,+91-8367853278,https://www.hindu-mission-hospital.example
+HOSP00319,Vijaya Health Centre - Lucknow 16,"722, Hospital Road",Lucknow,Uttar Pradesh,Psychiatry,+91-9129923432,https://www.vijaya-health-centre.example
+HOSP00320,Be Well Hospitals - Kochi 16,"148, Hospital Road",Kochi,Kerala,General Surgery,+91-9424443516,https://www.be-well-hospitals.example
+HOSP00321,Apollo Hospitals - Chennai 17,"836, Lake View Road",Chennai,Tamil Nadu,General Medicine,+91-6262327478,https://www.apollo-hospitals.example
+HOSP00322,Fortis Healthcare - Coimbatore 17,"822, Main Road",Coimbatore,Tamil Nadu,Cardiology,+91-7204167894,https://www.fortis-healthcare.example
+HOSP00323,MIOT International - Madurai 17,"809, Anna Salai",Madurai,Tamil Nadu,Neurology,+91-9520398254,https://www.miot-international.example
+HOSP00324,Sri Ramachandra Medical Centre - Trichy 17,"184, Hospital Road",Trichy,Tamil Nadu,Orthopedics,+91-7149155194,https://www.sri-ramachandra-medical-centre.example
+HOSP00325,Kauvery Hospital - Salem 17,"987, Airport Road",Salem,Tamil Nadu,Pediatrics,+91-8976199146,https://www.kauvery-hospital.example
+HOSP00326,Global Hospitals - Tirunelveli 17,"366, Hospital Road",Tirunelveli,Tamil Nadu,Gynecology,+91-7964063580,https://www.global-hospitals.example
+HOSP00327,SIMS Hospital - Hyderabad 17,"173, Hospital Road",Hyderabad,Telangana,Dermatology,+91-8976330831,https://www.sims-hospital.example
+HOSP00328,MGM Healthcare - Bengaluru 17,"55, Hospital Road",Bengaluru,Karnataka,Ophthalmology,+91-8920261400,https://www.mgm-healthcare.example
+HOSP00329,Billroth Hospitals - Kochi 17,"158, Park Street",Kochi,Kerala,ENT,+91-8754040914,https://www.billroth-hospitals.example
+HOSP00330,Vijaya Hospital - Vijayawada 17,"638, Station Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-9918644617,https://www.vijaya-hospital.example
+HOSP00331,Sankara Nethralaya - Visakhapatnam 17,"560, Main Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-7291274085,https://www.sankara-nethralaya.example
+HOSP00332,Kanchi Kamakoti CHILDS Trust Hospital - Pune 17,"227, Airport Road",Pune,Maharashtra,Endocrinology,+91-7564041481,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00333,Government General Hospital - Mumbai 17,"910, Airport Road",Mumbai,Maharashtra,Pulmonology,+91-6395090148,https://www.government-general-hospital.example
+HOSP00334,Rajiv Gandhi Government General Hospital - Delhi 17,"477, Park Street",Delhi,Delhi,Oncology,+91-6665796959,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00335,Dr. Mehta's Hospitals - Kolkata 17,"922, Ring Road",Kolkata,West Bengal,Urology,+91-6625544306,https://www.dr-mehtas-hospitals.example
+HOSP00336,Cloudnine Hospital - Bhubaneswar 17,"732, Airport Road",Bhubaneswar,Odisha,Radiology,+91-6172971221,https://www.cloudnine-hospital.example
+HOSP00337,Prashanth Hospitals - Ahmedabad 17,"483, Main Road",Ahmedabad,Gujarat,Pathology,+91-6249834828,https://www.prashanth-hospitals.example
+HOSP00338,Hindu Mission Hospital - Jaipur 17,"97, Ring Road",Jaipur,Rajasthan,Emergency Medicine,+91-8516893492,https://www.hindu-mission-hospital.example
+HOSP00339,Vijaya Health Centre - Lucknow 17,"865, Anna Salai",Lucknow,Uttar Pradesh,Psychiatry,+91-7412063604,https://www.vijaya-health-centre.example
+HOSP00340,Be Well Hospitals - Kochi 17,"775, Main Road",Kochi,Kerala,General Surgery,+91-6703560369,https://www.be-well-hospitals.example
+HOSP00341,Apollo Hospitals - Chennai 18,"516, MG Road",Chennai,Tamil Nadu,General Medicine,+91-9732705246,https://www.apollo-hospitals.example
+HOSP00342,Fortis Healthcare - Coimbatore 18,"837, Medical College Road",Coimbatore,Tamil Nadu,Cardiology,+91-7816084641,https://www.fortis-healthcare.example
+HOSP00343,MIOT International - Madurai 18,"680, Park Street",Madurai,Tamil Nadu,Neurology,+91-6856569719,https://www.miot-international.example
+HOSP00344,Sri Ramachandra Medical Centre - Trichy 18,"854, Hospital Road",Trichy,Tamil Nadu,Orthopedics,+91-7035605909,https://www.sri-ramachandra-medical-centre.example
+HOSP00345,Kauvery Hospital - Salem 18,"231, Station Road",Salem,Tamil Nadu,Pediatrics,+91-6913598264,https://www.kauvery-hospital.example
+HOSP00346,Global Hospitals - Tirunelveli 18,"382, Hospital Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8301508130,https://www.global-hospitals.example
+HOSP00347,SIMS Hospital - Hyderabad 18,"892, Park Street",Hyderabad,Telangana,Dermatology,+91-9097142364,https://www.sims-hospital.example
+HOSP00348,MGM Healthcare - Bengaluru 18,"434, Station Road",Bengaluru,Karnataka,Ophthalmology,+91-9677212589,https://www.mgm-healthcare.example
+HOSP00349,Billroth Hospitals - Kochi 18,"372, MG Road",Kochi,Kerala,ENT,+91-7325887761,https://www.billroth-hospitals.example
+HOSP00350,Vijaya Hospital - Vijayawada 18,"645, Station Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8400959204,https://www.vijaya-hospital.example
+HOSP00351,Sankara Nethralaya - Visakhapatnam 18,"622, Station Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-6394121669,https://www.sankara-nethralaya.example
+HOSP00352,Kanchi Kamakoti CHILDS Trust Hospital - Pune 18,"900, MG Road",Pune,Maharashtra,Endocrinology,+91-9174207115,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00353,Government General Hospital - Mumbai 18,"201, Medical College Road",Mumbai,Maharashtra,Pulmonology,+91-9247222544,https://www.government-general-hospital.example
+HOSP00354,Rajiv Gandhi Government General Hospital - Delhi 18,"81, Ring Road",Delhi,Delhi,Oncology,+91-9070070306,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00355,Dr. Mehta's Hospitals - Kolkata 18,"696, Lake View Road",Kolkata,West Bengal,Urology,+91-8954554876,https://www.dr-mehtas-hospitals.example
+HOSP00356,Cloudnine Hospital - Bhubaneswar 18,"162, Medical College Road",Bhubaneswar,Odisha,Radiology,+91-6739257722,https://www.cloudnine-hospital.example
+HOSP00357,Prashanth Hospitals - Ahmedabad 18,"209, Park Street",Ahmedabad,Gujarat,Pathology,+91-6813034113,https://www.prashanth-hospitals.example
+HOSP00358,Hindu Mission Hospital - Jaipur 18,"922, Park Street",Jaipur,Rajasthan,Emergency Medicine,+91-6131004337,https://www.hindu-mission-hospital.example
+HOSP00359,Vijaya Health Centre - Lucknow 18,"561, Hospital Road",Lucknow,Uttar Pradesh,Psychiatry,+91-8783966672,https://www.vijaya-health-centre.example
+HOSP00360,Be Well Hospitals - Kochi 18,"918, Anna Salai",Kochi,Kerala,General Surgery,+91-7233156543,https://www.be-well-hospitals.example
+HOSP00361,Apollo Hospitals - Chennai 19,"757, Ring Road",Chennai,Tamil Nadu,General Medicine,+91-7710693333,https://www.apollo-hospitals.example
+HOSP00362,Fortis Healthcare - Coimbatore 19,"10, Station Road",Coimbatore,Tamil Nadu,Cardiology,+91-8237753097,https://www.fortis-healthcare.example
+HOSP00363,MIOT International - Madurai 19,"472, Anna Salai",Madurai,Tamil Nadu,Neurology,+91-9609786100,https://www.miot-international.example
+HOSP00364,Sri Ramachandra Medical Centre - Trichy 19,"363, Station Road",Trichy,Tamil Nadu,Orthopedics,+91-6592479925,https://www.sri-ramachandra-medical-centre.example
+HOSP00365,Kauvery Hospital - Salem 19,"111, Hospital Road",Salem,Tamil Nadu,Pediatrics,+91-8403664427,https://www.kauvery-hospital.example
+HOSP00366,Global Hospitals - Tirunelveli 19,"228, Ring Road",Tirunelveli,Tamil Nadu,Gynecology,+91-7958577400,https://www.global-hospitals.example
+HOSP00367,SIMS Hospital - Hyderabad 19,"387, Lake View Road",Hyderabad,Telangana,Dermatology,+91-8718897178,https://www.sims-hospital.example
+HOSP00368,MGM Healthcare - Bengaluru 19,"608, Main Road",Bengaluru,Karnataka,Ophthalmology,+91-9997451127,https://www.mgm-healthcare.example
+HOSP00369,Billroth Hospitals - Kochi 19,"715, Airport Road",Kochi,Kerala,ENT,+91-7401239808,https://www.billroth-hospitals.example
+HOSP00370,Vijaya Hospital - Vijayawada 19,"774, Anna Salai",Vijayawada,Andhra Pradesh,Gastroenterology,+91-8929292945,https://www.vijaya-hospital.example
+HOSP00371,Sankara Nethralaya - Visakhapatnam 19,"81, Station Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8012447024,https://www.sankara-nethralaya.example
+HOSP00372,Kanchi Kamakoti CHILDS Trust Hospital - Pune 19,"355, Airport Road",Pune,Maharashtra,Endocrinology,+91-9547439731,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00373,Government General Hospital - Mumbai 19,"816, Airport Road",Mumbai,Maharashtra,Pulmonology,+91-9526020102,https://www.government-general-hospital.example
+HOSP00374,Rajiv Gandhi Government General Hospital - Delhi 19,"544, Medical College Road",Delhi,Delhi,Oncology,+91-9494317918,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00375,Dr. Mehta's Hospitals - Kolkata 19,"283, Anna Salai",Kolkata,West Bengal,Urology,+91-6159902735,https://www.dr-mehtas-hospitals.example
+HOSP00376,Cloudnine Hospital - Bhubaneswar 19,"83, Lake View Road",Bhubaneswar,Odisha,Radiology,+91-6179844212,https://www.cloudnine-hospital.example
+HOSP00377,Prashanth Hospitals - Ahmedabad 19,"72, Airport Road",Ahmedabad,Gujarat,Pathology,+91-9962371096,https://www.prashanth-hospitals.example
+HOSP00378,Hindu Mission Hospital - Jaipur 19,"464, Lake View Road",Jaipur,Rajasthan,Emergency Medicine,+91-6467280591,https://www.hindu-mission-hospital.example
+HOSP00379,Vijaya Health Centre - Lucknow 19,"396, Lake View Road",Lucknow,Uttar Pradesh,Psychiatry,+91-7962645444,https://www.vijaya-health-centre.example
+HOSP00380,Be Well Hospitals - Kochi 19,"629, Station Road",Kochi,Kerala,General Surgery,+91-8322644410,https://www.be-well-hospitals.example
+HOSP00381,Apollo Hospitals - Chennai 20,"23, Hospital Road",Chennai,Tamil Nadu,General Medicine,+91-9857631358,https://www.apollo-hospitals.example
+HOSP00382,Fortis Healthcare - Coimbatore 20,"327, Hospital Road",Coimbatore,Tamil Nadu,Cardiology,+91-6114174638,https://www.fortis-healthcare.example
+HOSP00383,MIOT International - Madurai 20,"108, Park Street",Madurai,Tamil Nadu,Neurology,+91-6394530142,https://www.miot-international.example
+HOSP00384,Sri Ramachandra Medical Centre - Trichy 20,"173, Airport Road",Trichy,Tamil Nadu,Orthopedics,+91-9695720561,https://www.sri-ramachandra-medical-centre.example
+HOSP00385,Kauvery Hospital - Salem 20,"262, Main Road",Salem,Tamil Nadu,Pediatrics,+91-6198382508,https://www.kauvery-hospital.example
+HOSP00386,Global Hospitals - Tirunelveli 20,"767, Medical College Road",Tirunelveli,Tamil Nadu,Gynecology,+91-9232302240,https://www.global-hospitals.example
+HOSP00387,SIMS Hospital - Hyderabad 20,"617, Airport Road",Hyderabad,Telangana,Dermatology,+91-6513999033,https://www.sims-hospital.example
+HOSP00388,MGM Healthcare - Bengaluru 20,"751, Ring Road",Bengaluru,Karnataka,Ophthalmology,+91-9080508106,https://www.mgm-healthcare.example
+HOSP00389,Billroth Hospitals - Kochi 20,"157, Anna Salai",Kochi,Kerala,ENT,+91-8021988496,https://www.billroth-hospitals.example
+HOSP00390,Vijaya Hospital - Vijayawada 20,"248, Ring Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-9079336551,https://www.vijaya-hospital.example
+HOSP00391,Sankara Nethralaya - Visakhapatnam 20,"919, Station Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8965481596,https://www.sankara-nethralaya.example
+HOSP00392,Kanchi Kamakoti CHILDS Trust Hospital - Pune 20,"249, Park Street",Pune,Maharashtra,Endocrinology,+91-7024056306,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00393,Government General Hospital - Mumbai 20,"527, Ring Road",Mumbai,Maharashtra,Pulmonology,+91-7799020782,https://www.government-general-hospital.example
+HOSP00394,Rajiv Gandhi Government General Hospital - Delhi 20,"43, Station Road",Delhi,Delhi,Oncology,+91-7070397596,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00395,Dr. Mehta's Hospitals - Kolkata 20,"610, Hospital Road",Kolkata,West Bengal,Urology,+91-7883441628,https://www.dr-mehtas-hospitals.example
+HOSP00396,Cloudnine Hospital - Bhubaneswar 20,"194, Medical College Road",Bhubaneswar,Odisha,Radiology,+91-8527044151,https://www.cloudnine-hospital.example
+HOSP00397,Prashanth Hospitals - Ahmedabad 20,"488, Lake View Road",Ahmedabad,Gujarat,Pathology,+91-7639040754,https://www.prashanth-hospitals.example
+HOSP00398,Hindu Mission Hospital - Jaipur 20,"495, Airport Road",Jaipur,Rajasthan,Emergency Medicine,+91-6070219879,https://www.hindu-mission-hospital.example
+HOSP00399,Vijaya Health Centre - Lucknow 20,"511, MG Road",Lucknow,Uttar Pradesh,Psychiatry,+91-7652364025,https://www.vijaya-health-centre.example
+HOSP00400,Be Well Hospitals - Kochi 20,"748, Main Road",Kochi,Kerala,General Surgery,+91-8274345438,https://www.be-well-hospitals.example
+HOSP00401,Apollo Hospitals - Chennai 21,"477, Hospital Road",Chennai,Tamil Nadu,General Medicine,+91-7265608051,https://www.apollo-hospitals.example
+HOSP00402,Fortis Healthcare - Coimbatore 21,"247, Airport Road",Coimbatore,Tamil Nadu,Cardiology,+91-7348088087,https://www.fortis-healthcare.example
+HOSP00403,MIOT International - Madurai 21,"274, Park Street",Madurai,Tamil Nadu,Neurology,+91-9709273845,https://www.miot-international.example
+HOSP00404,Sri Ramachandra Medical Centre - Trichy 21,"753, Lake View Road",Trichy,Tamil Nadu,Orthopedics,+91-6112947959,https://www.sri-ramachandra-medical-centre.example
+HOSP00405,Kauvery Hospital - Salem 21,"362, Lake View Road",Salem,Tamil Nadu,Pediatrics,+91-9734548088,https://www.kauvery-hospital.example
+HOSP00406,Global Hospitals - Tirunelveli 21,"533, Hospital Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8277946209,https://www.global-hospitals.example
+HOSP00407,SIMS Hospital - Hyderabad 21,"126, Lake View Road",Hyderabad,Telangana,Dermatology,+91-7582639247,https://www.sims-hospital.example
+HOSP00408,MGM Healthcare - Bengaluru 21,"826, MG Road",Bengaluru,Karnataka,Ophthalmology,+91-8519271311,https://www.mgm-healthcare.example
+HOSP00409,Billroth Hospitals - Kochi 21,"78, Airport Road",Kochi,Kerala,ENT,+91-6730413899,https://www.billroth-hospitals.example
+HOSP00410,Vijaya Hospital - Vijayawada 21,"469, Park Street",Vijayawada,Andhra Pradesh,Gastroenterology,+91-9469264239,https://www.vijaya-hospital.example
+HOSP00411,Sankara Nethralaya - Visakhapatnam 21,"114, Medical College Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-9458294380,https://www.sankara-nethralaya.example
+HOSP00412,Kanchi Kamakoti CHILDS Trust Hospital - Pune 21,"426, Park Street",Pune,Maharashtra,Endocrinology,+91-6024787672,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00413,Government General Hospital - Mumbai 21,"251, MG Road",Mumbai,Maharashtra,Pulmonology,+91-6219528101,https://www.government-general-hospital.example
+HOSP00414,Rajiv Gandhi Government General Hospital - Delhi 21,"269, Hospital Road",Delhi,Delhi,Oncology,+91-8253661345,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00415,Dr. Mehta's Hospitals - Kolkata 21,"273, Ring Road",Kolkata,West Bengal,Urology,+91-6363148785,https://www.dr-mehtas-hospitals.example
+HOSP00416,Cloudnine Hospital - Bhubaneswar 21,"262, Hospital Road",Bhubaneswar,Odisha,Radiology,+91-9914895252,https://www.cloudnine-hospital.example
+HOSP00417,Prashanth Hospitals - Ahmedabad 21,"38, MG Road",Ahmedabad,Gujarat,Pathology,+91-9035015308,https://www.prashanth-hospitals.example
+HOSP00418,Hindu Mission Hospital - Jaipur 21,"863, Airport Road",Jaipur,Rajasthan,Emergency Medicine,+91-6496881971,https://www.hindu-mission-hospital.example
+HOSP00419,Vijaya Health Centre - Lucknow 21,"921, Station Road",Lucknow,Uttar Pradesh,Psychiatry,+91-8360941487,https://www.vijaya-health-centre.example
+HOSP00420,Be Well Hospitals - Kochi 21,"684, Main Road",Kochi,Kerala,General Surgery,+91-7527586376,https://www.be-well-hospitals.example
+HOSP00421,Apollo Hospitals - Chennai 22,"983, Station Road",Chennai,Tamil Nadu,General Medicine,+91-9611620352,https://www.apollo-hospitals.example
+HOSP00422,Fortis Healthcare - Coimbatore 22,"973, Airport Road",Coimbatore,Tamil Nadu,Cardiology,+91-8707891609,https://www.fortis-healthcare.example
+HOSP00423,MIOT International - Madurai 22,"957, Main Road",Madurai,Tamil Nadu,Neurology,+91-9874590153,https://www.miot-international.example
+HOSP00424,Sri Ramachandra Medical Centre - Trichy 22,"880, MG Road",Trichy,Tamil Nadu,Orthopedics,+91-8793587139,https://www.sri-ramachandra-medical-centre.example
+HOSP00425,Kauvery Hospital - Salem 22,"667, Station Road",Salem,Tamil Nadu,Pediatrics,+91-6201925145,https://www.kauvery-hospital.example
+HOSP00426,Global Hospitals - Tirunelveli 22,"299, Medical College Road",Tirunelveli,Tamil Nadu,Gynecology,+91-6723022539,https://www.global-hospitals.example
+HOSP00427,SIMS Hospital - Hyderabad 22,"668, Medical College Road",Hyderabad,Telangana,Dermatology,+91-7198822540,https://www.sims-hospital.example
+HOSP00428,MGM Healthcare - Bengaluru 22,"210, Main Road",Bengaluru,Karnataka,Ophthalmology,+91-7232229579,https://www.mgm-healthcare.example
+HOSP00429,Billroth Hospitals - Kochi 22,"633, Main Road",Kochi,Kerala,ENT,+91-8024573670,https://www.billroth-hospitals.example
+HOSP00430,Vijaya Hospital - Vijayawada 22,"947, Anna Salai",Vijayawada,Andhra Pradesh,Gastroenterology,+91-6306279692,https://www.vijaya-hospital.example
+HOSP00431,Sankara Nethralaya - Visakhapatnam 22,"907, Airport Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-6719820469,https://www.sankara-nethralaya.example
+HOSP00432,Kanchi Kamakoti CHILDS Trust Hospital - Pune 22,"561, Airport Road",Pune,Maharashtra,Endocrinology,+91-8507014753,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00433,Government General Hospital - Mumbai 22,"554, MG Road",Mumbai,Maharashtra,Pulmonology,+91-8127154052,https://www.government-general-hospital.example
+HOSP00434,Rajiv Gandhi Government General Hospital - Delhi 22,"840, Main Road",Delhi,Delhi,Oncology,+91-8326458898,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00435,Dr. Mehta's Hospitals - Kolkata 22,"361, MG Road",Kolkata,West Bengal,Urology,+91-8305364935,https://www.dr-mehtas-hospitals.example
+HOSP00436,Cloudnine Hospital - Bhubaneswar 22,"403, Station Road",Bhubaneswar,Odisha,Radiology,+91-6375641932,https://www.cloudnine-hospital.example
+HOSP00437,Prashanth Hospitals - Ahmedabad 22,"249, Main Road",Ahmedabad,Gujarat,Pathology,+91-6064985954,https://www.prashanth-hospitals.example
+HOSP00438,Hindu Mission Hospital - Jaipur 22,"424, Park Street",Jaipur,Rajasthan,Emergency Medicine,+91-8387494318,https://www.hindu-mission-hospital.example
+HOSP00439,Vijaya Health Centre - Lucknow 22,"92, Station Road",Lucknow,Uttar Pradesh,Psychiatry,+91-8898537219,https://www.vijaya-health-centre.example
+HOSP00440,Be Well Hospitals - Kochi 22,"638, Hospital Road",Kochi,Kerala,General Surgery,+91-6736899476,https://www.be-well-hospitals.example
+HOSP00441,Apollo Hospitals - Chennai 23,"243, Hospital Road",Chennai,Tamil Nadu,General Medicine,+91-8401633998,https://www.apollo-hospitals.example
+HOSP00442,Fortis Healthcare - Coimbatore 23,"205, Airport Road",Coimbatore,Tamil Nadu,Cardiology,+91-9248380571,https://www.fortis-healthcare.example
+HOSP00443,MIOT International - Madurai 23,"346, Park Street",Madurai,Tamil Nadu,Neurology,+91-7197986672,https://www.miot-international.example
+HOSP00444,Sri Ramachandra Medical Centre - Trichy 23,"662, Hospital Road",Trichy,Tamil Nadu,Orthopedics,+91-8010514920,https://www.sri-ramachandra-medical-centre.example
+HOSP00445,Kauvery Hospital - Salem 23,"95, Main Road",Salem,Tamil Nadu,Pediatrics,+91-7478887984,https://www.kauvery-hospital.example
+HOSP00446,Global Hospitals - Tirunelveli 23,"77, Hospital Road",Tirunelveli,Tamil Nadu,Gynecology,+91-8434780038,https://www.global-hospitals.example
+HOSP00447,SIMS Hospital - Hyderabad 23,"884, Airport Road",Hyderabad,Telangana,Dermatology,+91-9345607400,https://www.sims-hospital.example
+HOSP00448,MGM Healthcare - Bengaluru 23,"250, Station Road",Bengaluru,Karnataka,Ophthalmology,+91-9739075393,https://www.mgm-healthcare.example
+HOSP00449,Billroth Hospitals - Kochi 23,"711, Hospital Road",Kochi,Kerala,ENT,+91-8949401905,https://www.billroth-hospitals.example
+HOSP00450,Vijaya Hospital - Vijayawada 23,"819, Ring Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-6754652902,https://www.vijaya-hospital.example
+HOSP00451,Sankara Nethralaya - Visakhapatnam 23,"507, Airport Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-6495511122,https://www.sankara-nethralaya.example
+HOSP00452,Kanchi Kamakoti CHILDS Trust Hospital - Pune 23,"143, Main Road",Pune,Maharashtra,Endocrinology,+91-9497846913,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00453,Government General Hospital - Mumbai 23,"389, Medical College Road",Mumbai,Maharashtra,Pulmonology,+91-8997793276,https://www.government-general-hospital.example
+HOSP00454,Rajiv Gandhi Government General Hospital - Delhi 23,"510, Park Street",Delhi,Delhi,Oncology,+91-8881212338,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00455,Dr. Mehta's Hospitals - Kolkata 23,"581, Ring Road",Kolkata,West Bengal,Urology,+91-8200359747,https://www.dr-mehtas-hospitals.example
+HOSP00456,Cloudnine Hospital - Bhubaneswar 23,"966, Ring Road",Bhubaneswar,Odisha,Radiology,+91-6357432685,https://www.cloudnine-hospital.example
+HOSP00457,Prashanth Hospitals - Ahmedabad 23,"761, Lake View Road",Ahmedabad,Gujarat,Pathology,+91-6090248819,https://www.prashanth-hospitals.example
+HOSP00458,Hindu Mission Hospital - Jaipur 23,"666, Anna Salai",Jaipur,Rajasthan,Emergency Medicine,+91-7022174849,https://www.hindu-mission-hospital.example
+HOSP00459,Vijaya Health Centre - Lucknow 23,"119, Park Street",Lucknow,Uttar Pradesh,Psychiatry,+91-9769561355,https://www.vijaya-health-centre.example
+HOSP00460,Be Well Hospitals - Kochi 23,"251, Anna Salai",Kochi,Kerala,General Surgery,+91-8554047272,https://www.be-well-hospitals.example
+HOSP00461,Apollo Hospitals - Chennai 24,"692, Lake View Road",Chennai,Tamil Nadu,General Medicine,+91-8921227943,https://www.apollo-hospitals.example
+HOSP00462,Fortis Healthcare - Coimbatore 24,"581, Hospital Road",Coimbatore,Tamil Nadu,Cardiology,+91-7318027234,https://www.fortis-healthcare.example
+HOSP00463,MIOT International - Madurai 24,"765, Airport Road",Madurai,Tamil Nadu,Neurology,+91-6045035253,https://www.miot-international.example
+HOSP00464,Sri Ramachandra Medical Centre - Trichy 24,"996, Main Road",Trichy,Tamil Nadu,Orthopedics,+91-7471244693,https://www.sri-ramachandra-medical-centre.example
+HOSP00465,Kauvery Hospital - Salem 24,"943, Hospital Road",Salem,Tamil Nadu,Pediatrics,+91-9068490776,https://www.kauvery-hospital.example
+HOSP00466,Global Hospitals - Tirunelveli 24,"470, Lake View Road",Tirunelveli,Tamil Nadu,Gynecology,+91-6416979212,https://www.global-hospitals.example
+HOSP00467,SIMS Hospital - Hyderabad 24,"249, Station Road",Hyderabad,Telangana,Dermatology,+91-9223346953,https://www.sims-hospital.example
+HOSP00468,MGM Healthcare - Bengaluru 24,"965, Hospital Road",Bengaluru,Karnataka,Ophthalmology,+91-8608347627,https://www.mgm-healthcare.example
+HOSP00469,Billroth Hospitals - Kochi 24,"978, Airport Road",Kochi,Kerala,ENT,+91-8843860472,https://www.billroth-hospitals.example
+HOSP00470,Vijaya Hospital - Vijayawada 24,"490, Medical College Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-6289987177,https://www.vijaya-hospital.example
+HOSP00471,Sankara Nethralaya - Visakhapatnam 24,"131, Main Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8632795796,https://www.sankara-nethralaya.example
+HOSP00472,Kanchi Kamakoti CHILDS Trust Hospital - Pune 24,"541, Anna Salai",Pune,Maharashtra,Endocrinology,+91-6634080709,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00473,Government General Hospital - Mumbai 24,"418, Anna Salai",Mumbai,Maharashtra,Pulmonology,+91-6087143342,https://www.government-general-hospital.example
+HOSP00474,Rajiv Gandhi Government General Hospital - Delhi 24,"455, Lake View Road",Delhi,Delhi,Oncology,+91-7269118427,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00475,Dr. Mehta's Hospitals - Kolkata 24,"972, Hospital Road",Kolkata,West Bengal,Urology,+91-7636978143,https://www.dr-mehtas-hospitals.example
+HOSP00476,Cloudnine Hospital - Bhubaneswar 24,"649, Main Road",Bhubaneswar,Odisha,Radiology,+91-7907304016,https://www.cloudnine-hospital.example
+HOSP00477,Prashanth Hospitals - Ahmedabad 24,"602, Medical College Road",Ahmedabad,Gujarat,Pathology,+91-6413318790,https://www.prashanth-hospitals.example
+HOSP00478,Hindu Mission Hospital - Jaipur 24,"233, Ring Road",Jaipur,Rajasthan,Emergency Medicine,+91-7906285707,https://www.hindu-mission-hospital.example
+HOSP00479,Vijaya Health Centre - Lucknow 24,"830, Medical College Road",Lucknow,Uttar Pradesh,Psychiatry,+91-9632583947,https://www.vijaya-health-centre.example
+HOSP00480,Be Well Hospitals - Kochi 24,"395, Anna Salai",Kochi,Kerala,General Surgery,+91-7884540427,https://www.be-well-hospitals.example
+HOSP00481,Apollo Hospitals - Chennai 25,"788, Station Road",Chennai,Tamil Nadu,General Medicine,+91-9126375547,https://www.apollo-hospitals.example
+HOSP00482,Fortis Healthcare - Coimbatore 25,"963, Anna Salai",Coimbatore,Tamil Nadu,Cardiology,+91-7077668168,https://www.fortis-healthcare.example
+HOSP00483,MIOT International - Madurai 25,"457, Lake View Road",Madurai,Tamil Nadu,Neurology,+91-7762833266,https://www.miot-international.example
+HOSP00484,Sri Ramachandra Medical Centre - Trichy 25,"481, Anna Salai",Trichy,Tamil Nadu,Orthopedics,+91-9693693194,https://www.sri-ramachandra-medical-centre.example
+HOSP00485,Kauvery Hospital - Salem 25,"321, Hospital Road",Salem,Tamil Nadu,Pediatrics,+91-6436629567,https://www.kauvery-hospital.example
+HOSP00486,Global Hospitals - Tirunelveli 25,"628, Airport Road",Tirunelveli,Tamil Nadu,Gynecology,+91-6131578374,https://www.global-hospitals.example
+HOSP00487,SIMS Hospital - Hyderabad 25,"210, MG Road",Hyderabad,Telangana,Dermatology,+91-9002416732,https://www.sims-hospital.example
+HOSP00488,MGM Healthcare - Bengaluru 25,"302, Park Street",Bengaluru,Karnataka,Ophthalmology,+91-6965717818,https://www.mgm-healthcare.example
+HOSP00489,Billroth Hospitals - Kochi 25,"889, Ring Road",Kochi,Kerala,ENT,+91-6712437776,https://www.billroth-hospitals.example
+HOSP00490,Vijaya Hospital - Vijayawada 25,"820, Medical College Road",Vijayawada,Andhra Pradesh,Gastroenterology,+91-6987186074,https://www.vijaya-hospital.example
+HOSP00491,Sankara Nethralaya - Visakhapatnam 25,"395, Hospital Road",Visakhapatnam,Andhra Pradesh,Nephrology,+91-8583646701,https://www.sankara-nethralaya.example
+HOSP00492,Kanchi Kamakoti CHILDS Trust Hospital - Pune 25,"344, Airport Road",Pune,Maharashtra,Endocrinology,+91-7694821354,https://www.kanchi-kamakoti-childs-trust-hospital.example
+HOSP00493,Government General Hospital - Mumbai 25,"213, Lake View Road",Mumbai,Maharashtra,Pulmonology,+91-8358274059,https://www.government-general-hospital.example
+HOSP00494,Rajiv Gandhi Government General Hospital - Delhi 25,"311, Airport Road",Delhi,Delhi,Oncology,+91-8311654489,https://www.rajiv-gandhi-government-general-hospital.example
+HOSP00495,Dr. Mehta's Hospitals - Kolkata 25,"995, Park Street",Kolkata,West Bengal,Urology,+91-8979018658,https://www.dr-mehtas-hospitals.example
+HOSP00496,Cloudnine Hospital - Bhubaneswar 25,"270, Ring Road",Bhubaneswar,Odisha,Radiology,+91-9717889661,https://www.cloudnine-hospital.example
+HOSP00497,Prashanth Hospitals - Ahmedabad 25,"945, Station Road",Ahmedabad,Gujarat,Pathology,+91-7041809544,https://www.prashanth-hospitals.example
+HOSP00498,Hindu Mission Hospital - Jaipur 25,"180, Airport Road",Jaipur,Rajasthan,Emergency Medicine,+91-7297185914,https://www.hindu-mission-hospital.example
+HOSP00499,Vijaya Health Centre - Lucknow 25,"39, Lake View Road",Lucknow,Uttar Pradesh,Psychiatry,+91-9542410537,https://www.vijaya-health-centre.example
+HOSP00500,Be Well Hospitals - Kochi 25,"201, Anna Salai",Kochi,Kerala,General Surgery,+91-6729431280,https://www.be-well-hospitals.example

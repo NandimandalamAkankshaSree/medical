@@ -1,0 +1,5002 @@
+[
+  {
+    "hospital_id":"HOSP00001",
+    "hospital_name":"Apollo Hospitals",
+    "address":"122, Ring Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8158288730",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00002",
+    "hospital_name":"Fortis Healthcare",
+    "address":"975, Airport Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-8779694999",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00003",
+    "hospital_name":"MIOT International",
+    "address":"881, Medical College Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-9797265611",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00004",
+    "hospital_name":"Sri Ramachandra Medical Centre",
+    "address":"229, Lake View Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8669253892",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00005",
+    "hospital_name":"Kauvery Hospital",
+    "address":"570, Park Street",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9364563061",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00006",
+    "hospital_name":"Global Hospitals",
+    "address":"587, Airport Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-9618087884",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00007",
+    "hospital_name":"SIMS Hospital",
+    "address":"749, Station Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9225631933",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00008",
+    "hospital_name":"MGM Healthcare",
+    "address":"792, Lake View Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7894488586",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00009",
+    "hospital_name":"Billroth Hospitals",
+    "address":"246, Main Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8637987308",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00010",
+    "hospital_name":"Vijaya Hospital",
+    "address":"83, Medical College Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-7233687312",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00011",
+    "hospital_name":"Sankara Nethralaya",
+    "address":"837, Medical College Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-7931252818",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00012",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital",
+    "address":"12, Station Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-8917953297",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00013",
+    "hospital_name":"Government General Hospital",
+    "address":"322, MG Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-7706035757",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00014",
+    "hospital_name":"Rajiv Gandhi Government General Hospital",
+    "address":"258, Ring Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-9991387404",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00015",
+    "hospital_name":"Dr. Mehta's Hospitals",
+    "address":"366, Park Street",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-9203916392",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00016",
+    "hospital_name":"Cloudnine Hospital",
+    "address":"526, Medical College Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-9105742297",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00017",
+    "hospital_name":"Prashanth Hospitals",
+    "address":"349, Medical College Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-8394231823",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00018",
+    "hospital_name":"Hindu Mission Hospital",
+    "address":"551, Anna Salai",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-7235240924",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00019",
+    "hospital_name":"Vijaya Health Centre",
+    "address":"469, Hospital Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-9764430628",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00020",
+    "hospital_name":"Be Well Hospitals",
+    "address":"661, Lake View Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7327139357",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00021",
+    "hospital_name":"Apollo Hospitals - Chennai 2",
+    "address":"26, Ring Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-7561402013",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00022",
+    "hospital_name":"Fortis Healthcare - Coimbatore 2",
+    "address":"473, Park Street",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-6389485682",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00023",
+    "hospital_name":"MIOT International - Madurai 2",
+    "address":"409, Lake View Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-8381340453",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00024",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 2",
+    "address":"511, Medical College Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7827265126",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00025",
+    "hospital_name":"Kauvery Hospital - Salem 2",
+    "address":"519, Lake View Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9759958078",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00026",
+    "hospital_name":"Global Hospitals - Tirunelveli 2",
+    "address":"503, Park Street",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-9937431195",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00027",
+    "hospital_name":"SIMS Hospital - Hyderabad 2",
+    "address":"538, Anna Salai",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9627004145",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00028",
+    "hospital_name":"MGM Healthcare - Bengaluru 2",
+    "address":"431, Lake View Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-9978140950",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00029",
+    "hospital_name":"Billroth Hospitals - Kochi 2",
+    "address":"491, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8224738229",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00030",
+    "hospital_name":"Vijaya Hospital - Vijayawada 2",
+    "address":"825, Main Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8471823424",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00031",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 2",
+    "address":"230, Hospital Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-9513851069",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00032",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 2",
+    "address":"51, Airport Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9808882884",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00033",
+    "hospital_name":"Government General Hospital - Mumbai 2",
+    "address":"687, Medical College Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-9080812367",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00034",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 2",
+    "address":"638, Park Street",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8018807828",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00035",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 2",
+    "address":"146, Station Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-9798065994",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00036",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 2",
+    "address":"235, Medical College Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-8691529321",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00037",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 2",
+    "address":"718, Station Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-8896110047",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00038",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 2",
+    "address":"481, Airport Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-7078064622",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00039",
+    "hospital_name":"Vijaya Health Centre - Lucknow 2",
+    "address":"574, Park Street",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8876571223",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00040",
+    "hospital_name":"Be Well Hospitals - Kochi 2",
+    "address":"316, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-9435123436",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00041",
+    "hospital_name":"Apollo Hospitals - Chennai 3",
+    "address":"663, Airport Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8999276835",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00042",
+    "hospital_name":"Fortis Healthcare - Coimbatore 3",
+    "address":"491, Park Street",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7860007896",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00043",
+    "hospital_name":"MIOT International - Madurai 3",
+    "address":"208, Anna Salai",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-9572734190",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00044",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 3",
+    "address":"276, Main Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-6142203221",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00045",
+    "hospital_name":"Kauvery Hospital - Salem 3",
+    "address":"154, Lake View Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7968071924",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00046",
+    "hospital_name":"Global Hospitals - Tirunelveli 3",
+    "address":"823, Airport Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-9981253048",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00047",
+    "hospital_name":"SIMS Hospital - Hyderabad 3",
+    "address":"502, Ring Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9957854121",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00048",
+    "hospital_name":"MGM Healthcare - Bengaluru 3",
+    "address":"205, Anna Salai",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8974900223",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00049",
+    "hospital_name":"Billroth Hospitals - Kochi 3",
+    "address":"498, Station Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8195874083",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00050",
+    "hospital_name":"Vijaya Hospital - Vijayawada 3",
+    "address":"786, Station Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-9470158660",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00051",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 3",
+    "address":"445, Airport Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8851418236",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00052",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 3",
+    "address":"930, Main Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9570848376",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00053",
+    "hospital_name":"Government General Hospital - Mumbai 3",
+    "address":"298, Ring Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-7965615737",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00054",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 3",
+    "address":"939, Medical College Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-7883132879",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00055",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 3",
+    "address":"706, Airport Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-7111671333",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00056",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 3",
+    "address":"464, Hospital Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-7828696304",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00057",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 3",
+    "address":"863, Station Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6276145584",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00058",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 3",
+    "address":"665, Anna Salai",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-9879487978",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00059",
+    "hospital_name":"Vijaya Health Centre - Lucknow 3",
+    "address":"511, Ring Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-6415162484",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00060",
+    "hospital_name":"Be Well Hospitals - Kochi 3",
+    "address":"200, Park Street",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-6628605732",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00061",
+    "hospital_name":"Apollo Hospitals - Chennai 4",
+    "address":"461, Main Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-6395861254",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00062",
+    "hospital_name":"Fortis Healthcare - Coimbatore 4",
+    "address":"1, Station Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-8493829788",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00063",
+    "hospital_name":"MIOT International - Madurai 4",
+    "address":"560, Medical College Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-8620504368",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00064",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 4",
+    "address":"813, MG Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7064454438",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00065",
+    "hospital_name":"Kauvery Hospital - Salem 4",
+    "address":"124, Lake View Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-6191809267",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00066",
+    "hospital_name":"Global Hospitals - Tirunelveli 4",
+    "address":"770, Airport Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-7153355214",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00067",
+    "hospital_name":"SIMS Hospital - Hyderabad 4",
+    "address":"685, Ring Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-6664693043",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00068",
+    "hospital_name":"MGM Healthcare - Bengaluru 4",
+    "address":"6, Ring Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8854355064",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00069",
+    "hospital_name":"Billroth Hospitals - Kochi 4",
+    "address":"598, Lake View Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-9305096782",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00070",
+    "hospital_name":"Vijaya Hospital - Vijayawada 4",
+    "address":"949, Station Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8962482100",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00071",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 4",
+    "address":"738, Hospital Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8344208658",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00072",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 4",
+    "address":"229, Station Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-8525159540",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00073",
+    "hospital_name":"Government General Hospital - Mumbai 4",
+    "address":"135, Lake View Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-9762364696",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00074",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 4",
+    "address":"710, Airport Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-7248461747",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00075",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 4",
+    "address":"87, Park Street",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8871421313",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00076",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 4",
+    "address":"164, Hospital Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-9364840406",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00077",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 4",
+    "address":"802, Lake View Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-7314278591",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00078",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 4",
+    "address":"520, Park Street",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-7676786620",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00079",
+    "hospital_name":"Vijaya Health Centre - Lucknow 4",
+    "address":"828, Hospital Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8233515788",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00080",
+    "hospital_name":"Be Well Hospitals - Kochi 4",
+    "address":"827, MG Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7614934286",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00081",
+    "hospital_name":"Apollo Hospitals - Chennai 5",
+    "address":"15, Medical College Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-7672236820",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00082",
+    "hospital_name":"Fortis Healthcare - Coimbatore 5",
+    "address":"910, Medical College Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-6220655520",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00083",
+    "hospital_name":"MIOT International - Madurai 5",
+    "address":"854, Ring Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-8775719018",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00084",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 5",
+    "address":"362, Main Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-6109875088",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00085",
+    "hospital_name":"Kauvery Hospital - Salem 5",
+    "address":"523, Station Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7407718710",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00086",
+    "hospital_name":"Global Hospitals - Tirunelveli 5",
+    "address":"700, Anna Salai",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-7933338230",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00087",
+    "hospital_name":"SIMS Hospital - Hyderabad 5",
+    "address":"334, Medical College Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-8137045498",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00088",
+    "hospital_name":"MGM Healthcare - Bengaluru 5",
+    "address":"972, Station Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8455081544",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00089",
+    "hospital_name":"Billroth Hospitals - Kochi 5",
+    "address":"634, Hospital Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-6660955025",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00090",
+    "hospital_name":"Vijaya Hospital - Vijayawada 5",
+    "address":"606, Airport Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-6888996598",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00091",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 5",
+    "address":"445, Lake View Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-7444908030",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00092",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 5",
+    "address":"470, Lake View Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7002129707",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00093",
+    "hospital_name":"Government General Hospital - Mumbai 5",
+    "address":"695, Medical College Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-8350867335",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00094",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 5",
+    "address":"409, Main Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-6839640056",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00095",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 5",
+    "address":"663, Hospital Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-6194289684",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00096",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 5",
+    "address":"664, Airport Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-9998428931",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00097",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 5",
+    "address":"860, Main Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-7940555806",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00098",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 5",
+    "address":"889, MG Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8078080341",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00099",
+    "hospital_name":"Vijaya Health Centre - Lucknow 5",
+    "address":"729, Main Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-6554651107",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00100",
+    "hospital_name":"Be Well Hospitals - Kochi 5",
+    "address":"662, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-6939410411",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00101",
+    "hospital_name":"Apollo Hospitals - Chennai 6",
+    "address":"805, Airport Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9842345125",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00102",
+    "hospital_name":"Fortis Healthcare - Coimbatore 6",
+    "address":"980, Hospital Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-6688872719",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00103",
+    "hospital_name":"MIOT International - Madurai 6",
+    "address":"678, Hospital Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-7674914576",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00104",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 6",
+    "address":"280, Park Street",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8289264439",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00105",
+    "hospital_name":"Kauvery Hospital - Salem 6",
+    "address":"425, Medical College Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7645768523",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00106",
+    "hospital_name":"Global Hospitals - Tirunelveli 6",
+    "address":"313, Hospital Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-7477752127",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00107",
+    "hospital_name":"SIMS Hospital - Hyderabad 6",
+    "address":"179, Anna Salai",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-7992500832",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00108",
+    "hospital_name":"MGM Healthcare - Bengaluru 6",
+    "address":"510, Park Street",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7235534370",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00109",
+    "hospital_name":"Billroth Hospitals - Kochi 6",
+    "address":"479, Hospital Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-7399254242",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00110",
+    "hospital_name":"Vijaya Hospital - Vijayawada 6",
+    "address":"532, Station Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-7909469009",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00111",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 6",
+    "address":"123, Airport Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-9421381552",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00112",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 6",
+    "address":"538, Anna Salai",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9505347638",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00113",
+    "hospital_name":"Government General Hospital - Mumbai 6",
+    "address":"97, MG Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6993575479",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00114",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 6",
+    "address":"6, Medical College Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-9773647458",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00115",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 6",
+    "address":"466, Ring Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-7752357227",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00116",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 6",
+    "address":"559, Hospital Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6116757711",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00117",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 6",
+    "address":"361, Hospital Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-7510547414",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00118",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 6",
+    "address":"576, Lake View Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-9400768007",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00119",
+    "hospital_name":"Vijaya Health Centre - Lucknow 6",
+    "address":"552, MG Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-6471130002",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00120",
+    "hospital_name":"Be Well Hospitals - Kochi 6",
+    "address":"636, Anna Salai",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-8387141768",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00121",
+    "hospital_name":"Apollo Hospitals - Chennai 7",
+    "address":"770, Lake View Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9139494357",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00122",
+    "hospital_name":"Fortis Healthcare - Coimbatore 7",
+    "address":"220, Lake View Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7265727380",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00123",
+    "hospital_name":"MIOT International - Madurai 7",
+    "address":"577, Anna Salai",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-8878948192",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00124",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 7",
+    "address":"570, Hospital Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-6435749075",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00125",
+    "hospital_name":"Kauvery Hospital - Salem 7",
+    "address":"801, Anna Salai",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-6414166868",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00126",
+    "hospital_name":"Global Hospitals - Tirunelveli 7",
+    "address":"978, Park Street",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-6735620897",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00127",
+    "hospital_name":"SIMS Hospital - Hyderabad 7",
+    "address":"109, Main Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9260364377",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00128",
+    "hospital_name":"MGM Healthcare - Bengaluru 7",
+    "address":"365, Hospital Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8774310030",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00129",
+    "hospital_name":"Billroth Hospitals - Kochi 7",
+    "address":"646, Medical College Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8175945118",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00130",
+    "hospital_name":"Vijaya Hospital - Vijayawada 7",
+    "address":"322, Anna Salai",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8525907038",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00131",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 7",
+    "address":"858, Medical College Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-7249990743",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00132",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 7",
+    "address":"955, Ring Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-6693168558",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00133",
+    "hospital_name":"Government General Hospital - Mumbai 7",
+    "address":"268, Anna Salai",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6270063605",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00134",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 7",
+    "address":"15, Park Street",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-9721561320",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00135",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 7",
+    "address":"920, Anna Salai",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-7780385293",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00136",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 7",
+    "address":"989, Main Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6246151497",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00137",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 7",
+    "address":"99, MG Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6098688507",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00138",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 7",
+    "address":"318, Medical College Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-6403169199",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00139",
+    "hospital_name":"Vijaya Health Centre - Lucknow 7",
+    "address":"703, Airport Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8475967256",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00140",
+    "hospital_name":"Be Well Hospitals - Kochi 7",
+    "address":"959, Ring Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7352804891",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00141",
+    "hospital_name":"Apollo Hospitals - Chennai 8",
+    "address":"799, Station Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8608140625",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00142",
+    "hospital_name":"Fortis Healthcare - Coimbatore 8",
+    "address":"641, Lake View Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-6163255380",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00143",
+    "hospital_name":"MIOT International - Madurai 8",
+    "address":"947, Park Street",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-7357483373",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00144",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 8",
+    "address":"623, MG Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8551457298",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00145",
+    "hospital_name":"Kauvery Hospital - Salem 8",
+    "address":"474, Park Street",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-8903051159",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00146",
+    "hospital_name":"Global Hospitals - Tirunelveli 8",
+    "address":"900, Medical College Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8948338116",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00147",
+    "hospital_name":"SIMS Hospital - Hyderabad 8",
+    "address":"384, Airport Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-8926606570",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00148",
+    "hospital_name":"MGM Healthcare - Bengaluru 8",
+    "address":"998, Anna Salai",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7670945465",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00149",
+    "hospital_name":"Billroth Hospitals - Kochi 8",
+    "address":"299, Ring Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-6247522018",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00150",
+    "hospital_name":"Vijaya Hospital - Vijayawada 8",
+    "address":"754, Park Street",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-9772774153",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00151",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 8",
+    "address":"25, Anna Salai",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8986293464",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00152",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 8",
+    "address":"339, Anna Salai",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9122985144",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00153",
+    "hospital_name":"Government General Hospital - Mumbai 8",
+    "address":"982, Medical College Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-7275356256",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00154",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 8",
+    "address":"787, Park Street",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-7369589998",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00155",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 8",
+    "address":"600, Main Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8328545861",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00156",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 8",
+    "address":"980, Ring Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6848033966",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00157",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 8",
+    "address":"575, Main Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-9099584378",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00158",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 8",
+    "address":"116, Hospital Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8658457168",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00159",
+    "hospital_name":"Vijaya Health Centre - Lucknow 8",
+    "address":"126, Medical College Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-6160282720",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00160",
+    "hospital_name":"Be Well Hospitals - Kochi 8",
+    "address":"129, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7520593017",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00161",
+    "hospital_name":"Apollo Hospitals - Chennai 9",
+    "address":"612, Anna Salai",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-6123670045",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00162",
+    "hospital_name":"Fortis Healthcare - Coimbatore 9",
+    "address":"435, Lake View Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-6542444985",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00163",
+    "hospital_name":"MIOT International - Madurai 9",
+    "address":"365, Park Street",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-7649722352",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00164",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 9",
+    "address":"387, MG Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-9335469082",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00165",
+    "hospital_name":"Kauvery Hospital - Salem 9",
+    "address":"432, MG Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9328203515",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00166",
+    "hospital_name":"Global Hospitals - Tirunelveli 9",
+    "address":"129, Hospital Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8331853998",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00167",
+    "hospital_name":"SIMS Hospital - Hyderabad 9",
+    "address":"30, Airport Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-8936693064",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00168",
+    "hospital_name":"MGM Healthcare - Bengaluru 9",
+    "address":"569, Park Street",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-9818853335",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00169",
+    "hospital_name":"Billroth Hospitals - Kochi 9",
+    "address":"262, Hospital Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-6980351187",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00170",
+    "hospital_name":"Vijaya Hospital - Vijayawada 9",
+    "address":"24, Main Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-7188982511",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00171",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 9",
+    "address":"555, Station Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-7794779953",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00172",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 9",
+    "address":"271, Ring Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-6595529184",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00173",
+    "hospital_name":"Government General Hospital - Mumbai 9",
+    "address":"967, Lake View Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6384171076",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00174",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 9",
+    "address":"860, Hospital Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8375040102",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00175",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 9",
+    "address":"39, Airport Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-9521286196",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00176",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 9",
+    "address":"272, Ring Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-8718742444",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00177",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 9",
+    "address":"533, Ring Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6241616574",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00178",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 9",
+    "address":"674, Main Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8696630221",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00179",
+    "hospital_name":"Vijaya Health Centre - Lucknow 9",
+    "address":"249, Station Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-6250383353",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00180",
+    "hospital_name":"Be Well Hospitals - Kochi 9",
+    "address":"994, MG Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-8916897793",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00181",
+    "hospital_name":"Apollo Hospitals - Chennai 10",
+    "address":"521, Hospital Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9982420865",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00182",
+    "hospital_name":"Fortis Healthcare - Coimbatore 10",
+    "address":"764, Park Street",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-9037699692",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00183",
+    "hospital_name":"MIOT International - Madurai 10",
+    "address":"369, MG Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-8412011681",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00184",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 10",
+    "address":"849, Anna Salai",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7476128491",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00185",
+    "hospital_name":"Kauvery Hospital - Salem 10",
+    "address":"882, MG Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7609438152",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00186",
+    "hospital_name":"Global Hospitals - Tirunelveli 10",
+    "address":"368, Station Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8735943126",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00187",
+    "hospital_name":"SIMS Hospital - Hyderabad 10",
+    "address":"469, Airport Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9485097592",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00188",
+    "hospital_name":"MGM Healthcare - Bengaluru 10",
+    "address":"486, Lake View Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7340861552",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00189",
+    "hospital_name":"Billroth Hospitals - Kochi 10",
+    "address":"193, Hospital Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8697310732",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00190",
+    "hospital_name":"Vijaya Hospital - Vijayawada 10",
+    "address":"421, Hospital Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8082443651",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00191",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 10",
+    "address":"916, Main Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-7522275064",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00192",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 10",
+    "address":"834, Airport Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9016564252",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00193",
+    "hospital_name":"Government General Hospital - Mumbai 10",
+    "address":"419, Main Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-8744983686",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00194",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 10",
+    "address":"177, Medical College Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-7284350722",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00195",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 10",
+    "address":"382, Airport Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-9139656674",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00196",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 10",
+    "address":"272, Hospital Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-9069686736",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00197",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 10",
+    "address":"758, Medical College Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-9880530279",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00198",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 10",
+    "address":"19, Airport Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-6932534395",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00199",
+    "hospital_name":"Vijaya Health Centre - Lucknow 10",
+    "address":"871, Lake View Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-7317311739",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00200",
+    "hospital_name":"Be Well Hospitals - Kochi 10",
+    "address":"587, Main Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7689107690",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00201",
+    "hospital_name":"Apollo Hospitals - Chennai 11",
+    "address":"390, Airport Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8218762629",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00202",
+    "hospital_name":"Fortis Healthcare - Coimbatore 11",
+    "address":"832, Hospital Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-8185113890",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00203",
+    "hospital_name":"MIOT International - Madurai 11",
+    "address":"108, Medical College Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-6609422924",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00204",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 11",
+    "address":"751, Park Street",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7432843807",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00205",
+    "hospital_name":"Kauvery Hospital - Salem 11",
+    "address":"561, Anna Salai",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7333242809",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00206",
+    "hospital_name":"Global Hospitals - Tirunelveli 11",
+    "address":"43, Lake View Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8844406737",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00207",
+    "hospital_name":"SIMS Hospital - Hyderabad 11",
+    "address":"807, MG Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-6696689449",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00208",
+    "hospital_name":"MGM Healthcare - Bengaluru 11",
+    "address":"921, Anna Salai",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7268268811",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00209",
+    "hospital_name":"Billroth Hospitals - Kochi 11",
+    "address":"555, Anna Salai",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-7534262469",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00210",
+    "hospital_name":"Vijaya Hospital - Vijayawada 11",
+    "address":"138, Park Street",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-6810448082",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00211",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 11",
+    "address":"765, Main Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-9639164662",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00212",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 11",
+    "address":"621, Station Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7815280397",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00213",
+    "hospital_name":"Government General Hospital - Mumbai 11",
+    "address":"365, Airport Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6733946483",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00214",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 11",
+    "address":"740, Airport Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-6126756425",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00215",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 11",
+    "address":"184, Ring Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8315401479",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00216",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 11",
+    "address":"149, Hospital Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6122054676",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00217",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 11",
+    "address":"909, Medical College Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-8211874685",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00218",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 11",
+    "address":"684, Main Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-9615988964",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00219",
+    "hospital_name":"Vijaya Health Centre - Lucknow 11",
+    "address":"384, Medical College Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-7580533087",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00220",
+    "hospital_name":"Be Well Hospitals - Kochi 11",
+    "address":"310, MG Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-8285489905",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00221",
+    "hospital_name":"Apollo Hospitals - Chennai 12",
+    "address":"158, Lake View Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8620009920",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00222",
+    "hospital_name":"Fortis Healthcare - Coimbatore 12",
+    "address":"255, Hospital Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-6456422196",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00223",
+    "hospital_name":"MIOT International - Madurai 12",
+    "address":"335, Station Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-6461251642",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00224",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 12",
+    "address":"895, Medical College Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7637235415",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00225",
+    "hospital_name":"Kauvery Hospital - Salem 12",
+    "address":"269, Lake View Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7294912357",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00226",
+    "hospital_name":"Global Hospitals - Tirunelveli 12",
+    "address":"664, Medical College Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-7493785618",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00227",
+    "hospital_name":"SIMS Hospital - Hyderabad 12",
+    "address":"486, Station Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-6519427452",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00228",
+    "hospital_name":"MGM Healthcare - Bengaluru 12",
+    "address":"569, Airport Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7060972222",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00229",
+    "hospital_name":"Billroth Hospitals - Kochi 12",
+    "address":"849, Ring Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8935756342",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00230",
+    "hospital_name":"Vijaya Hospital - Vijayawada 12",
+    "address":"835, Station Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-9941441065",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00231",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 12",
+    "address":"600, Ring Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-6354547282",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00232",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 12",
+    "address":"71, Medical College Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9472133338",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00233",
+    "hospital_name":"Government General Hospital - Mumbai 12",
+    "address":"507, Anna Salai",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-7139471989",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00234",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 12",
+    "address":"772, MG Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-6723021334",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00235",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 12",
+    "address":"333, Park Street",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8174422104",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00236",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 12",
+    "address":"576, Ring Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-7385958557",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00237",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 12",
+    "address":"929, Station Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-7731169707",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00238",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 12",
+    "address":"322, Hospital Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-6843899613",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00239",
+    "hospital_name":"Vijaya Health Centre - Lucknow 12",
+    "address":"826, Station Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-6945626263",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00240",
+    "hospital_name":"Be Well Hospitals - Kochi 12",
+    "address":"887, Ring Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-9259129806",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00241",
+    "hospital_name":"Apollo Hospitals - Chennai 13",
+    "address":"807, Ring Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-7759647743",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00242",
+    "hospital_name":"Fortis Healthcare - Coimbatore 13",
+    "address":"852, Lake View Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7639078152",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00243",
+    "hospital_name":"MIOT International - Madurai 13",
+    "address":"218, Hospital Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-7896965837",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00244",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 13",
+    "address":"761, Lake View Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8821111913",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00245",
+    "hospital_name":"Kauvery Hospital - Salem 13",
+    "address":"754, Hospital Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7852400454",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00246",
+    "hospital_name":"Global Hospitals - Tirunelveli 13",
+    "address":"275, Ring Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-9589072595",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00247",
+    "hospital_name":"SIMS Hospital - Hyderabad 13",
+    "address":"121, Ring Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-7144419151",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00248",
+    "hospital_name":"MGM Healthcare - Bengaluru 13",
+    "address":"862, Station Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7132251899",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00249",
+    "hospital_name":"Billroth Hospitals - Kochi 13",
+    "address":"149, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8692415405",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00250",
+    "hospital_name":"Vijaya Hospital - Vijayawada 13",
+    "address":"275, MG Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-7424948299",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00251",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 13",
+    "address":"996, Hospital Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8410764861",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00252",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 13",
+    "address":"791, Medical College Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7150664795",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00253",
+    "hospital_name":"Government General Hospital - Mumbai 13",
+    "address":"301, Lake View Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-7967369697",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00254",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 13",
+    "address":"649, Park Street",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-7715626004",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00255",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 13",
+    "address":"23, Airport Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-9077182100",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00256",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 13",
+    "address":"338, Park Street",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-7446704254",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00257",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 13",
+    "address":"98, Station Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-9902157211",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00258",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 13",
+    "address":"695, Airport Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8219168164",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00259",
+    "hospital_name":"Vijaya Health Centre - Lucknow 13",
+    "address":"215, Park Street",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-7512517579",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00260",
+    "hospital_name":"Be Well Hospitals - Kochi 13",
+    "address":"664, Ring Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-6257832847",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00261",
+    "hospital_name":"Apollo Hospitals - Chennai 14",
+    "address":"946, Park Street",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9111429280",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00262",
+    "hospital_name":"Fortis Healthcare - Coimbatore 14",
+    "address":"178, Main Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7146991877",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00263",
+    "hospital_name":"MIOT International - Madurai 14",
+    "address":"573, Anna Salai",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-6560919252",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00264",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 14",
+    "address":"343, Lake View Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8767533876",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00265",
+    "hospital_name":"Kauvery Hospital - Salem 14",
+    "address":"627, Park Street",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9577372346",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00266",
+    "hospital_name":"Global Hospitals - Tirunelveli 14",
+    "address":"797, Station Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-9656439792",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00267",
+    "hospital_name":"SIMS Hospital - Hyderabad 14",
+    "address":"911, Station Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-7454905342",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00268",
+    "hospital_name":"MGM Healthcare - Bengaluru 14",
+    "address":"13, Main Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-9252450270",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00269",
+    "hospital_name":"Billroth Hospitals - Kochi 14",
+    "address":"226, Medical College Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8837584142",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00270",
+    "hospital_name":"Vijaya Hospital - Vijayawada 14",
+    "address":"873, Anna Salai",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-7402795050",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00271",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 14",
+    "address":"19, MG Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-9396222920",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00272",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 14",
+    "address":"469, Airport Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7189316986",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00273",
+    "hospital_name":"Government General Hospital - Mumbai 14",
+    "address":"638, Ring Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6339250690",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00274",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 14",
+    "address":"570, MG Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8314820802",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00275",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 14",
+    "address":"788, Main Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-6410566847",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00276",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 14",
+    "address":"160, Ring Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6942334314",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00277",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 14",
+    "address":"966, Station Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6886356380",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00278",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 14",
+    "address":"621, Hospital Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-9030167649",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00279",
+    "hospital_name":"Vijaya Health Centre - Lucknow 14",
+    "address":"317, Medical College Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8437933101",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00280",
+    "hospital_name":"Be Well Hospitals - Kochi 14",
+    "address":"428, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-8925475402",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00281",
+    "hospital_name":"Apollo Hospitals - Chennai 15",
+    "address":"604, Airport Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-6572315428",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00282",
+    "hospital_name":"Fortis Healthcare - Coimbatore 15",
+    "address":"111, Main Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7163397872",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00283",
+    "hospital_name":"MIOT International - Madurai 15",
+    "address":"962, Park Street",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-6191036165",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00284",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 15",
+    "address":"190, Airport Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-9153582479",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00285",
+    "hospital_name":"Kauvery Hospital - Salem 15",
+    "address":"526, MG Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9910400218",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00286",
+    "hospital_name":"Global Hospitals - Tirunelveli 15",
+    "address":"483, Ring Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-7475570854",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00287",
+    "hospital_name":"SIMS Hospital - Hyderabad 15",
+    "address":"356, Ring Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-8605354250",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00288",
+    "hospital_name":"MGM Healthcare - Bengaluru 15",
+    "address":"492, Anna Salai",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8097301630",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00289",
+    "hospital_name":"Billroth Hospitals - Kochi 15",
+    "address":"905, Ring Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-9603308908",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00290",
+    "hospital_name":"Vijaya Hospital - Vijayawada 15",
+    "address":"257, Main Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8764229660",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00291",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 15",
+    "address":"502, Hospital Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-6093519190",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00292",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 15",
+    "address":"493, Ring Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7090289435",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00293",
+    "hospital_name":"Government General Hospital - Mumbai 15",
+    "address":"857, Station Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6853556462",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00294",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 15",
+    "address":"377, Anna Salai",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8200284821",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00295",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 15",
+    "address":"863, Park Street",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-7305960295",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00296",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 15",
+    "address":"224, Lake View Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6232734237",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00297",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 15",
+    "address":"835, Park Street",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-9706271716",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00298",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 15",
+    "address":"67, Airport Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8929410490",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00299",
+    "hospital_name":"Vijaya Health Centre - Lucknow 15",
+    "address":"546, Anna Salai",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8072739232",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00300",
+    "hospital_name":"Be Well Hospitals - Kochi 15",
+    "address":"632, Medical College Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-9663820894",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00301",
+    "hospital_name":"Apollo Hospitals - Chennai 16",
+    "address":"522, Airport Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8559072871",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00302",
+    "hospital_name":"Fortis Healthcare - Coimbatore 16",
+    "address":"333, Station Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7365522675",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00303",
+    "hospital_name":"MIOT International - Madurai 16",
+    "address":"677, Ring Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-7546528806",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00304",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 16",
+    "address":"186, Medical College Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8413955620",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00305",
+    "hospital_name":"Kauvery Hospital - Salem 16",
+    "address":"885, Hospital Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9261269583",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00306",
+    "hospital_name":"Global Hospitals - Tirunelveli 16",
+    "address":"264, Airport Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8235711939",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00307",
+    "hospital_name":"SIMS Hospital - Hyderabad 16",
+    "address":"890, Park Street",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-8708154545",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00308",
+    "hospital_name":"MGM Healthcare - Bengaluru 16",
+    "address":"109, Lake View Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-6922746587",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00309",
+    "hospital_name":"Billroth Hospitals - Kochi 16",
+    "address":"30, Station Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-7034637496",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00310",
+    "hospital_name":"Vijaya Hospital - Vijayawada 16",
+    "address":"215, Park Street",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8181990693",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00311",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 16",
+    "address":"877, Airport Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-6543251333",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00312",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 16",
+    "address":"527, MG Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9400245961",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00313",
+    "hospital_name":"Government General Hospital - Mumbai 16",
+    "address":"882, Anna Salai",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-9331970543",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00314",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 16",
+    "address":"895, Station Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-6587168814",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00315",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 16",
+    "address":"573, Ring Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-7562276095",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00316",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 16",
+    "address":"667, Park Street",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-8287941482",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00317",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 16",
+    "address":"631, Airport Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6811978613",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00318",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 16",
+    "address":"156, Lake View Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8367853278",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00319",
+    "hospital_name":"Vijaya Health Centre - Lucknow 16",
+    "address":"722, Hospital Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-9129923432",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00320",
+    "hospital_name":"Be Well Hospitals - Kochi 16",
+    "address":"148, Hospital Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-9424443516",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00321",
+    "hospital_name":"Apollo Hospitals - Chennai 17",
+    "address":"836, Lake View Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-6262327478",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00322",
+    "hospital_name":"Fortis Healthcare - Coimbatore 17",
+    "address":"822, Main Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7204167894",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00323",
+    "hospital_name":"MIOT International - Madurai 17",
+    "address":"809, Anna Salai",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-9520398254",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00324",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 17",
+    "address":"184, Hospital Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7149155194",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00325",
+    "hospital_name":"Kauvery Hospital - Salem 17",
+    "address":"987, Airport Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-8976199146",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00326",
+    "hospital_name":"Global Hospitals - Tirunelveli 17",
+    "address":"366, Hospital Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-7964063580",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00327",
+    "hospital_name":"SIMS Hospital - Hyderabad 17",
+    "address":"173, Hospital Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-8976330831",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00328",
+    "hospital_name":"MGM Healthcare - Bengaluru 17",
+    "address":"55, Hospital Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8920261400",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00329",
+    "hospital_name":"Billroth Hospitals - Kochi 17",
+    "address":"158, Park Street",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8754040914",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00330",
+    "hospital_name":"Vijaya Hospital - Vijayawada 17",
+    "address":"638, Station Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-9918644617",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00331",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 17",
+    "address":"560, Main Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-7291274085",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00332",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 17",
+    "address":"227, Airport Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7564041481",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00333",
+    "hospital_name":"Government General Hospital - Mumbai 17",
+    "address":"910, Airport Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6395090148",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00334",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 17",
+    "address":"477, Park Street",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-6665796959",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00335",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 17",
+    "address":"922, Ring Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-6625544306",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00336",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 17",
+    "address":"732, Airport Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6172971221",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00337",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 17",
+    "address":"483, Main Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6249834828",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00338",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 17",
+    "address":"97, Ring Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8516893492",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00339",
+    "hospital_name":"Vijaya Health Centre - Lucknow 17",
+    "address":"865, Anna Salai",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-7412063604",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00340",
+    "hospital_name":"Be Well Hospitals - Kochi 17",
+    "address":"775, Main Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-6703560369",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00341",
+    "hospital_name":"Apollo Hospitals - Chennai 18",
+    "address":"516, MG Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9732705246",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00342",
+    "hospital_name":"Fortis Healthcare - Coimbatore 18",
+    "address":"837, Medical College Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7816084641",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00343",
+    "hospital_name":"MIOT International - Madurai 18",
+    "address":"680, Park Street",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-6856569719",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00344",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 18",
+    "address":"854, Hospital Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7035605909",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00345",
+    "hospital_name":"Kauvery Hospital - Salem 18",
+    "address":"231, Station Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-6913598264",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00346",
+    "hospital_name":"Global Hospitals - Tirunelveli 18",
+    "address":"382, Hospital Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8301508130",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00347",
+    "hospital_name":"SIMS Hospital - Hyderabad 18",
+    "address":"892, Park Street",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9097142364",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00348",
+    "hospital_name":"MGM Healthcare - Bengaluru 18",
+    "address":"434, Station Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-9677212589",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00349",
+    "hospital_name":"Billroth Hospitals - Kochi 18",
+    "address":"372, MG Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-7325887761",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00350",
+    "hospital_name":"Vijaya Hospital - Vijayawada 18",
+    "address":"645, Station Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8400959204",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00351",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 18",
+    "address":"622, Station Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-6394121669",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00352",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 18",
+    "address":"900, MG Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9174207115",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00353",
+    "hospital_name":"Government General Hospital - Mumbai 18",
+    "address":"201, Medical College Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-9247222544",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00354",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 18",
+    "address":"81, Ring Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-9070070306",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00355",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 18",
+    "address":"696, Lake View Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8954554876",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00356",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 18",
+    "address":"162, Medical College Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6739257722",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00357",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 18",
+    "address":"209, Park Street",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6813034113",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00358",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 18",
+    "address":"922, Park Street",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-6131004337",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00359",
+    "hospital_name":"Vijaya Health Centre - Lucknow 18",
+    "address":"561, Hospital Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8783966672",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00360",
+    "hospital_name":"Be Well Hospitals - Kochi 18",
+    "address":"918, Anna Salai",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7233156543",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00361",
+    "hospital_name":"Apollo Hospitals - Chennai 19",
+    "address":"757, Ring Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-7710693333",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00362",
+    "hospital_name":"Fortis Healthcare - Coimbatore 19",
+    "address":"10, Station Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-8237753097",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00363",
+    "hospital_name":"MIOT International - Madurai 19",
+    "address":"472, Anna Salai",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-9609786100",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00364",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 19",
+    "address":"363, Station Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-6592479925",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00365",
+    "hospital_name":"Kauvery Hospital - Salem 19",
+    "address":"111, Hospital Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-8403664427",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00366",
+    "hospital_name":"Global Hospitals - Tirunelveli 19",
+    "address":"228, Ring Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-7958577400",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00367",
+    "hospital_name":"SIMS Hospital - Hyderabad 19",
+    "address":"387, Lake View Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-8718897178",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00368",
+    "hospital_name":"MGM Healthcare - Bengaluru 19",
+    "address":"608, Main Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-9997451127",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00369",
+    "hospital_name":"Billroth Hospitals - Kochi 19",
+    "address":"715, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-7401239808",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00370",
+    "hospital_name":"Vijaya Hospital - Vijayawada 19",
+    "address":"774, Anna Salai",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-8929292945",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00371",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 19",
+    "address":"81, Station Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8012447024",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00372",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 19",
+    "address":"355, Airport Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9547439731",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00373",
+    "hospital_name":"Government General Hospital - Mumbai 19",
+    "address":"816, Airport Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-9526020102",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00374",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 19",
+    "address":"544, Medical College Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-9494317918",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00375",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 19",
+    "address":"283, Anna Salai",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-6159902735",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00376",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 19",
+    "address":"83, Lake View Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6179844212",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00377",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 19",
+    "address":"72, Airport Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-9962371096",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00378",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 19",
+    "address":"464, Lake View Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-6467280591",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00379",
+    "hospital_name":"Vijaya Health Centre - Lucknow 19",
+    "address":"396, Lake View Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-7962645444",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00380",
+    "hospital_name":"Be Well Hospitals - Kochi 19",
+    "address":"629, Station Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-8322644410",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00381",
+    "hospital_name":"Apollo Hospitals - Chennai 20",
+    "address":"23, Hospital Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9857631358",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00382",
+    "hospital_name":"Fortis Healthcare - Coimbatore 20",
+    "address":"327, Hospital Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-6114174638",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00383",
+    "hospital_name":"MIOT International - Madurai 20",
+    "address":"108, Park Street",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-6394530142",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00384",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 20",
+    "address":"173, Airport Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-9695720561",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00385",
+    "hospital_name":"Kauvery Hospital - Salem 20",
+    "address":"262, Main Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-6198382508",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00386",
+    "hospital_name":"Global Hospitals - Tirunelveli 20",
+    "address":"767, Medical College Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-9232302240",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00387",
+    "hospital_name":"SIMS Hospital - Hyderabad 20",
+    "address":"617, Airport Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-6513999033",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00388",
+    "hospital_name":"MGM Healthcare - Bengaluru 20",
+    "address":"751, Ring Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-9080508106",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00389",
+    "hospital_name":"Billroth Hospitals - Kochi 20",
+    "address":"157, Anna Salai",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8021988496",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00390",
+    "hospital_name":"Vijaya Hospital - Vijayawada 20",
+    "address":"248, Ring Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-9079336551",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00391",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 20",
+    "address":"919, Station Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8965481596",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00392",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 20",
+    "address":"249, Park Street",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7024056306",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00393",
+    "hospital_name":"Government General Hospital - Mumbai 20",
+    "address":"527, Ring Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-7799020782",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00394",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 20",
+    "address":"43, Station Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-7070397596",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00395",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 20",
+    "address":"610, Hospital Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-7883441628",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00396",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 20",
+    "address":"194, Medical College Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-8527044151",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00397",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 20",
+    "address":"488, Lake View Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-7639040754",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00398",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 20",
+    "address":"495, Airport Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-6070219879",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00399",
+    "hospital_name":"Vijaya Health Centre - Lucknow 20",
+    "address":"511, MG Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-7652364025",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00400",
+    "hospital_name":"Be Well Hospitals - Kochi 20",
+    "address":"748, Main Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-8274345438",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00401",
+    "hospital_name":"Apollo Hospitals - Chennai 21",
+    "address":"477, Hospital Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-7265608051",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00402",
+    "hospital_name":"Fortis Healthcare - Coimbatore 21",
+    "address":"247, Airport Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7348088087",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00403",
+    "hospital_name":"MIOT International - Madurai 21",
+    "address":"274, Park Street",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-9709273845",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00404",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 21",
+    "address":"753, Lake View Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-6112947959",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00405",
+    "hospital_name":"Kauvery Hospital - Salem 21",
+    "address":"362, Lake View Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9734548088",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00406",
+    "hospital_name":"Global Hospitals - Tirunelveli 21",
+    "address":"533, Hospital Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8277946209",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00407",
+    "hospital_name":"SIMS Hospital - Hyderabad 21",
+    "address":"126, Lake View Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-7582639247",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00408",
+    "hospital_name":"MGM Healthcare - Bengaluru 21",
+    "address":"826, MG Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8519271311",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00409",
+    "hospital_name":"Billroth Hospitals - Kochi 21",
+    "address":"78, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-6730413899",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00410",
+    "hospital_name":"Vijaya Hospital - Vijayawada 21",
+    "address":"469, Park Street",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-9469264239",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00411",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 21",
+    "address":"114, Medical College Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-9458294380",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00412",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 21",
+    "address":"426, Park Street",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-6024787672",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00413",
+    "hospital_name":"Government General Hospital - Mumbai 21",
+    "address":"251, MG Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6219528101",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00414",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 21",
+    "address":"269, Hospital Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8253661345",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00415",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 21",
+    "address":"273, Ring Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-6363148785",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00416",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 21",
+    "address":"262, Hospital Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-9914895252",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00417",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 21",
+    "address":"38, MG Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-9035015308",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00418",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 21",
+    "address":"863, Airport Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-6496881971",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00419",
+    "hospital_name":"Vijaya Health Centre - Lucknow 21",
+    "address":"921, Station Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8360941487",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00420",
+    "hospital_name":"Be Well Hospitals - Kochi 21",
+    "address":"684, Main Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7527586376",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00421",
+    "hospital_name":"Apollo Hospitals - Chennai 22",
+    "address":"983, Station Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9611620352",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00422",
+    "hospital_name":"Fortis Healthcare - Coimbatore 22",
+    "address":"973, Airport Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-8707891609",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00423",
+    "hospital_name":"MIOT International - Madurai 22",
+    "address":"957, Main Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-9874590153",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00424",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 22",
+    "address":"880, MG Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8793587139",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00425",
+    "hospital_name":"Kauvery Hospital - Salem 22",
+    "address":"667, Station Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-6201925145",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00426",
+    "hospital_name":"Global Hospitals - Tirunelveli 22",
+    "address":"299, Medical College Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-6723022539",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00427",
+    "hospital_name":"SIMS Hospital - Hyderabad 22",
+    "address":"668, Medical College Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-7198822540",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00428",
+    "hospital_name":"MGM Healthcare - Bengaluru 22",
+    "address":"210, Main Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-7232229579",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00429",
+    "hospital_name":"Billroth Hospitals - Kochi 22",
+    "address":"633, Main Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8024573670",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00430",
+    "hospital_name":"Vijaya Hospital - Vijayawada 22",
+    "address":"947, Anna Salai",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-6306279692",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00431",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 22",
+    "address":"907, Airport Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-6719820469",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00432",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 22",
+    "address":"561, Airport Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-8507014753",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00433",
+    "hospital_name":"Government General Hospital - Mumbai 22",
+    "address":"554, MG Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-8127154052",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00434",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 22",
+    "address":"840, Main Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8326458898",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00435",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 22",
+    "address":"361, MG Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8305364935",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00436",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 22",
+    "address":"403, Station Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6375641932",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00437",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 22",
+    "address":"249, Main Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6064985954",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00438",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 22",
+    "address":"424, Park Street",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-8387494318",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00439",
+    "hospital_name":"Vijaya Health Centre - Lucknow 22",
+    "address":"92, Station Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-8898537219",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00440",
+    "hospital_name":"Be Well Hospitals - Kochi 22",
+    "address":"638, Hospital Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-6736899476",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00441",
+    "hospital_name":"Apollo Hospitals - Chennai 23",
+    "address":"243, Hospital Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8401633998",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00442",
+    "hospital_name":"Fortis Healthcare - Coimbatore 23",
+    "address":"205, Airport Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-9248380571",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00443",
+    "hospital_name":"MIOT International - Madurai 23",
+    "address":"346, Park Street",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-7197986672",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00444",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 23",
+    "address":"662, Hospital Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-8010514920",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00445",
+    "hospital_name":"Kauvery Hospital - Salem 23",
+    "address":"95, Main Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-7478887984",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00446",
+    "hospital_name":"Global Hospitals - Tirunelveli 23",
+    "address":"77, Hospital Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-8434780038",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00447",
+    "hospital_name":"SIMS Hospital - Hyderabad 23",
+    "address":"884, Airport Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9345607400",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00448",
+    "hospital_name":"MGM Healthcare - Bengaluru 23",
+    "address":"250, Station Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-9739075393",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00449",
+    "hospital_name":"Billroth Hospitals - Kochi 23",
+    "address":"711, Hospital Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8949401905",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00450",
+    "hospital_name":"Vijaya Hospital - Vijayawada 23",
+    "address":"819, Ring Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-6754652902",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00451",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 23",
+    "address":"507, Airport Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-6495511122",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00452",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 23",
+    "address":"143, Main Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-9497846913",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00453",
+    "hospital_name":"Government General Hospital - Mumbai 23",
+    "address":"389, Medical College Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-8997793276",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00454",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 23",
+    "address":"510, Park Street",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8881212338",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00455",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 23",
+    "address":"581, Ring Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8200359747",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00456",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 23",
+    "address":"966, Ring Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-6357432685",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00457",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 23",
+    "address":"761, Lake View Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6090248819",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00458",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 23",
+    "address":"666, Anna Salai",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-7022174849",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00459",
+    "hospital_name":"Vijaya Health Centre - Lucknow 23",
+    "address":"119, Park Street",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-9769561355",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00460",
+    "hospital_name":"Be Well Hospitals - Kochi 23",
+    "address":"251, Anna Salai",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-8554047272",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00461",
+    "hospital_name":"Apollo Hospitals - Chennai 24",
+    "address":"692, Lake View Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-8921227943",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00462",
+    "hospital_name":"Fortis Healthcare - Coimbatore 24",
+    "address":"581, Hospital Road",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7318027234",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00463",
+    "hospital_name":"MIOT International - Madurai 24",
+    "address":"765, Airport Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-6045035253",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00464",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 24",
+    "address":"996, Main Road",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-7471244693",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00465",
+    "hospital_name":"Kauvery Hospital - Salem 24",
+    "address":"943, Hospital Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-9068490776",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00466",
+    "hospital_name":"Global Hospitals - Tirunelveli 24",
+    "address":"470, Lake View Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-6416979212",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00467",
+    "hospital_name":"SIMS Hospital - Hyderabad 24",
+    "address":"249, Station Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9223346953",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00468",
+    "hospital_name":"MGM Healthcare - Bengaluru 24",
+    "address":"965, Hospital Road",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-8608347627",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00469",
+    "hospital_name":"Billroth Hospitals - Kochi 24",
+    "address":"978, Airport Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-8843860472",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00470",
+    "hospital_name":"Vijaya Hospital - Vijayawada 24",
+    "address":"490, Medical College Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-6289987177",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00471",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 24",
+    "address":"131, Main Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8632795796",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00472",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 24",
+    "address":"541, Anna Salai",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-6634080709",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00473",
+    "hospital_name":"Government General Hospital - Mumbai 24",
+    "address":"418, Anna Salai",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-6087143342",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00474",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 24",
+    "address":"455, Lake View Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-7269118427",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00475",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 24",
+    "address":"972, Hospital Road",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-7636978143",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00476",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 24",
+    "address":"649, Main Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-7907304016",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00477",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 24",
+    "address":"602, Medical College Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-6413318790",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00478",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 24",
+    "address":"233, Ring Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-7906285707",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00479",
+    "hospital_name":"Vijaya Health Centre - Lucknow 24",
+    "address":"830, Medical College Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-9632583947",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00480",
+    "hospital_name":"Be Well Hospitals - Kochi 24",
+    "address":"395, Anna Salai",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-7884540427",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00481",
+    "hospital_name":"Apollo Hospitals - Chennai 25",
+    "address":"788, Station Road",
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "department":"General Medicine",
+    "phone":"+91-9126375547",
+    "website":"https:\/\/www.apollo-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00482",
+    "hospital_name":"Fortis Healthcare - Coimbatore 25",
+    "address":"963, Anna Salai",
+    "city":"Coimbatore",
+    "state":"Tamil Nadu",
+    "department":"Cardiology",
+    "phone":"+91-7077668168",
+    "website":"https:\/\/www.fortis-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00483",
+    "hospital_name":"MIOT International - Madurai 25",
+    "address":"457, Lake View Road",
+    "city":"Madurai",
+    "state":"Tamil Nadu",
+    "department":"Neurology",
+    "phone":"+91-7762833266",
+    "website":"https:\/\/www.miot-international.example"
+  },
+  {
+    "hospital_id":"HOSP00484",
+    "hospital_name":"Sri Ramachandra Medical Centre - Trichy 25",
+    "address":"481, Anna Salai",
+    "city":"Trichy",
+    "state":"Tamil Nadu",
+    "department":"Orthopedics",
+    "phone":"+91-9693693194",
+    "website":"https:\/\/www.sri-ramachandra-medical-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00485",
+    "hospital_name":"Kauvery Hospital - Salem 25",
+    "address":"321, Hospital Road",
+    "city":"Salem",
+    "state":"Tamil Nadu",
+    "department":"Pediatrics",
+    "phone":"+91-6436629567",
+    "website":"https:\/\/www.kauvery-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00486",
+    "hospital_name":"Global Hospitals - Tirunelveli 25",
+    "address":"628, Airport Road",
+    "city":"Tirunelveli",
+    "state":"Tamil Nadu",
+    "department":"Gynecology",
+    "phone":"+91-6131578374",
+    "website":"https:\/\/www.global-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00487",
+    "hospital_name":"SIMS Hospital - Hyderabad 25",
+    "address":"210, MG Road",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "department":"Dermatology",
+    "phone":"+91-9002416732",
+    "website":"https:\/\/www.sims-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00488",
+    "hospital_name":"MGM Healthcare - Bengaluru 25",
+    "address":"302, Park Street",
+    "city":"Bengaluru",
+    "state":"Karnataka",
+    "department":"Ophthalmology",
+    "phone":"+91-6965717818",
+    "website":"https:\/\/www.mgm-healthcare.example"
+  },
+  {
+    "hospital_id":"HOSP00489",
+    "hospital_name":"Billroth Hospitals - Kochi 25",
+    "address":"889, Ring Road",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"ENT",
+    "phone":"+91-6712437776",
+    "website":"https:\/\/www.billroth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00490",
+    "hospital_name":"Vijaya Hospital - Vijayawada 25",
+    "address":"820, Medical College Road",
+    "city":"Vijayawada",
+    "state":"Andhra Pradesh",
+    "department":"Gastroenterology",
+    "phone":"+91-6987186074",
+    "website":"https:\/\/www.vijaya-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00491",
+    "hospital_name":"Sankara Nethralaya - Visakhapatnam 25",
+    "address":"395, Hospital Road",
+    "city":"Visakhapatnam",
+    "state":"Andhra Pradesh",
+    "department":"Nephrology",
+    "phone":"+91-8583646701",
+    "website":"https:\/\/www.sankara-nethralaya.example"
+  },
+  {
+    "hospital_id":"HOSP00492",
+    "hospital_name":"Kanchi Kamakoti CHILDS Trust Hospital - Pune 25",
+    "address":"344, Airport Road",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "department":"Endocrinology",
+    "phone":"+91-7694821354",
+    "website":"https:\/\/www.kanchi-kamakoti-childs-trust-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00493",
+    "hospital_name":"Government General Hospital - Mumbai 25",
+    "address":"213, Lake View Road",
+    "city":"Mumbai",
+    "state":"Maharashtra",
+    "department":"Pulmonology",
+    "phone":"+91-8358274059",
+    "website":"https:\/\/www.government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00494",
+    "hospital_name":"Rajiv Gandhi Government General Hospital - Delhi 25",
+    "address":"311, Airport Road",
+    "city":"Delhi",
+    "state":"Delhi",
+    "department":"Oncology",
+    "phone":"+91-8311654489",
+    "website":"https:\/\/www.rajiv-gandhi-government-general-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00495",
+    "hospital_name":"Dr. Mehta's Hospitals - Kolkata 25",
+    "address":"995, Park Street",
+    "city":"Kolkata",
+    "state":"West Bengal",
+    "department":"Urology",
+    "phone":"+91-8979018658",
+    "website":"https:\/\/www.dr-mehtas-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00496",
+    "hospital_name":"Cloudnine Hospital - Bhubaneswar 25",
+    "address":"270, Ring Road",
+    "city":"Bhubaneswar",
+    "state":"Odisha",
+    "department":"Radiology",
+    "phone":"+91-9717889661",
+    "website":"https:\/\/www.cloudnine-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00497",
+    "hospital_name":"Prashanth Hospitals - Ahmedabad 25",
+    "address":"945, Station Road",
+    "city":"Ahmedabad",
+    "state":"Gujarat",
+    "department":"Pathology",
+    "phone":"+91-7041809544",
+    "website":"https:\/\/www.prashanth-hospitals.example"
+  },
+  {
+    "hospital_id":"HOSP00498",
+    "hospital_name":"Hindu Mission Hospital - Jaipur 25",
+    "address":"180, Airport Road",
+    "city":"Jaipur",
+    "state":"Rajasthan",
+    "department":"Emergency Medicine",
+    "phone":"+91-7297185914",
+    "website":"https:\/\/www.hindu-mission-hospital.example"
+  },
+  {
+    "hospital_id":"HOSP00499",
+    "hospital_name":"Vijaya Health Centre - Lucknow 25",
+    "address":"39, Lake View Road",
+    "city":"Lucknow",
+    "state":"Uttar Pradesh",
+    "department":"Psychiatry",
+    "phone":"+91-9542410537",
+    "website":"https:\/\/www.vijaya-health-centre.example"
+  },
+  {
+    "hospital_id":"HOSP00500",
+    "hospital_name":"Be Well Hospitals - Kochi 25",
+    "address":"201, Anna Salai",
+    "city":"Kochi",
+    "state":"Kerala",
+    "department":"General Surgery",
+    "phone":"+91-6729431280",
+    "website":"https:\/\/www.be-well-hospitals.example"
+  }
+]

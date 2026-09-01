@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Environments & secrets
+.env
+.env.local
+*.env
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel/
+
+# Heavy raw datasets & zip archives (> 100MB)
+10k_synthea_covid19_csv/
+10k_synthea_covid19_csv/**
+synthea_sample_data_csv_nov2021/
+synthea_sample_data_csv_nov2021/**
+*.zip
+*.tar.gz
+*.7z
+
+
