@@ -2,6 +2,12 @@
   "version": 2,
   "buildCommand": "cd frontend && npm install && npm run build",
   "outputDirectory": "frontend/dist",
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "{backend/app/**,backend/mediassist.db,hospitals.json,hospitals.csv,medicine_normalization_dataset_2000.csv,prescription_ocr_medicine_dataset_2000.xlsx}",
+      "excludeFiles": "{frontend/**,node_modules/**,backend/tests/**,synthea_sample_data_csv_latest/**,synthea_sample_data_csv_nov2021/**,10k_synthea_covid19_csv/**,*.zip}"
+    }
+  },
   "rewrites": [
     {
       "source": "/api/:match*",
