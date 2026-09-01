@@ -9,15 +9,18 @@ is_vercel = bool(os.getenv("VERCEL") or os.getenv("AWS_LAMBDA_FUNCTION_NAME"))
 default_db_path = BASE_DIR / "backend" / "mediassist.db"
 
 if is_vercel:
-    tmp_db = Path("/tmp/mediassist.db")
+    import tempfile
+    import shutil
+    tmp_dir = Path(tempfile.gettempdir())
+    tmp_db = tmp_dir / "mediassist.db"
     if not tmp_db.exists() and default_db_path.exists():
         try:
-            import shutil
+            tmp_dir.mkdir(parents=True, exist_ok=True)
             shutil.copy2(default_db_path, tmp_db)
         except Exception:
             pass
     default_db_url = f"sqlite:///{tmp_db}" if tmp_db.exists() else f"sqlite:///{default_db_path}"
-    default_upload_dir = Path("/tmp/uploads")
+    default_upload_dir = tmp_dir / "uploads"
 else:
     default_db_url = f"sqlite:///{default_db_path}"
     default_upload_dir = BASE_DIR / "backend" / "uploads"

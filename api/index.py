@@ -8,20 +8,20 @@ backend_dir = root_dir / "backend"
 
 if str(backend_dir) not in sys.path:
     sys.path.insert(0, str(backend_dir))
-if str(root_dir) not in sys.path:
-    sys.path.insert(0, str(root_dir))
-
 import shutil
+import tempfile
 
-# If on Vercel serverless environment, setup writable sqlite copy in /tmp
+# If on Vercel serverless environment, setup writable sqlite copy in temp dir
 if os.getenv("VERCEL") or os.getenv("AWS_LAMBDA_FUNCTION_NAME"):
-    tmp_db = Path("/tmp/mediassist.db")
+    tmp_dir = Path(tempfile.gettempdir())
+    tmp_db = tmp_dir / "mediassist.db"
     src_db = backend_dir / "mediassist.db"
     if not tmp_db.exists() and src_db.exists():
         try:
+            tmp_dir.mkdir(parents=True, exist_ok=True)
             shutil.copy2(src_db, tmp_db)
         except Exception as e:
-            print(f"Notice: failed to copy sqlite database to /tmp: {e}")
+            print(f"Notice: failed to copy sqlite database to temp dir: {e}")
     if tmp_db.exists():
         os.environ["DATABASE_URL"] = f"sqlite:///{tmp_db}"
     else:
